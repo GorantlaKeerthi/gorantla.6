@@ -1,0 +1,3218 @@
+[1:934] Master: Generating process with PID 0
+[2:3517] Master: Generating process with PID 1
+[3:6487] Master: Generating process with PID 2
+[4:9116] Master: Generating process with PID 3
+[5:11011] Master: Generating process with PID 4
+[6:13444] Master: Generating process with PID 5
+[7:15331] Master: Generating process with PID 6
+[8:17150] Master: Generating process with PID 7
+[9:20356] Master: Generating process with PID 8
+[10:22602] Master: Generating process with PID 9
+[10:23485] Master: P0 reading 5018
+[10:23485] Master: Page fault on address 5018
+[10:23485] Master: Using free frame 0 for P0 page 4
+[11:25297] Master: Generating process with PID 10
+[11:26419] Master: P0 reading 5018
+[11:26429] Master: Address 5018 in frame 0, P0 reading data
+[11:26473] Master: P1 reading 10850
+[11:26473] Master: Page fault on address 10850
+[11:26473] Master: Using free frame 1 for P1 page 10
+[12:27831] Master: Generating process with PID 11
+[12:28582] Master: P0 reading 25353
+[12:28582] Master: Page fault on address 25353
+[12:28582] Master: Using free frame 2 for P0 page 24
+[12:28645] Master: P1 reading 10850
+[12:28655] Master: Address 10850 in frame 1, P1 reading data
+[12:28659] Master: P2 reading 1972
+[12:28659] Master: Page fault on address 1972
+[12:28659] Master: Using free frame 3 for P2 page 1
+[13:30188] Master: Generating process with PID 12
+[13:31198] Master: P0 reading 25353
+[13:31208] Master: Address 25353 in frame 2, P0 reading data
+[13:31266] Master: P1 reading 6907
+[13:31266] Master: Page fault on address 6907
+[13:31266] Master: Using free frame 4 for P1 page 6
+[13:31343] Master: P2 reading 1972
+[13:31353] Master: Address 1972 in frame 3, P2 reading data
+[14:32203] Master: Generating process with PID 13
+[14:33253] Master: P1 reading 6907
+[14:33263] Master: Address 6907 in frame 4, P1 reading data
+[15:34662] Master: Generating process with PID 14
+[16:37104] Master: Generating process with PID 15
+[17:39854] Master: Generating process with PID 16
+[18:42040] Master: Generating process with PID 17
+[19:44362] Master: Generating process with PID 18
+[20:46791] Master: Generating process with PID 19
+[20:47750] Master: P1 reading 8535
+[20:47750] Master: Page fault on address 8535
+[20:47750] Master: Using free frame 5 for P1 page 8
+[20:48005] Master: P5 reading 359
+[20:48005] Master: Page fault on address 359
+[20:48005] Master: Using free frame 6 for P5 page 0
+[20:48087] Master: P6 reading 26593
+[20:48087] Master: Page fault on address 26593
+[20:48087] Master: Using free frame 7 for P6 page 25
+[21:50442] Master: P0 reading 13267
+[21:50442] Master: Page fault on address 13267
+[21:50442] Master: Using free frame 8 for P0 page 12
+[21:50538] Master: P1 reading 8535
+[21:50548] Master: Address 8535 in frame 5, P1 reading data
+[21:50710] Master: P5 reading 359
+[21:50720] Master: Address 359 in frame 6, P5 reading data
+[21:50730] Master: P6 reading 26593
+[21:50740] Master: Address 26593 in frame 7, P6 reading data
+[22:52960] Master: P0 reading 13267
+[22:52970] Master: Address 13267 in frame 8, P0 reading data
+[22:53369] Master: P10 writing 24211
+[22:53369] Master: Page fault on address 24211
+[22:53369] Master: Using free frame 9 for P10 page 23
+[23:56391] Master: P10 writing 24211
+[23:56401] Master: Address 24211 in frame 9, P10 writing data
+[28:69047] Master: P2 writing 28132
+[28:69047] Master: Page fault on address 28132
+[28:69047] Master: Using free frame 10 for P2 page 27
+[29:71294] Master: P2 writing 28132
+[29:71304] Master: Address 28132 in frame 10, P2 writing data
+[50:125793] Master: P1 reading 12832
+[50:125793] Master: Page fault on address 12832
+[50:125793] Master: Using free frame 11 for P1 page 12
+[51:128190] Master: P1 reading 12832
+[51:128200] Master: Address 12832 in frame 11, P1 reading data
+[51:128472] Master: P6 reading 20055
+[51:128472] Master: Page fault on address 20055
+[51:128472] Master: Using free frame 12 for P6 page 19
+[52:131563] Master: P6 reading 20055
+[52:131573] Master: Address 20055 in frame 12, P6 reading data
+[91:225173] Master: P2 reading 3055
+[91:225173] Master: Page fault on address 3055
+[91:225173] Master: Using free frame 13 for P2 page 2
+[91:225576] Master: P10 reading 25579
+[91:225576] Master: Page fault on address 25579
+[91:225576] Master: Using free frame 14 for P10 page 24
+[92:228097] Master: P2 reading 3055
+[92:228107] Master: Address 3055 in frame 13, P2 reading data
+[92:228405] Master: P10 reading 25579
+[92:228415] Master: Address 25579 in frame 14, P10 reading data
+[98:242791] Master: P1 reading 10531
+[98:242801] Master: Address 10531 in frame 1, P1 reading data
+[100:247972] Master: P6 reading 25705
+[100:247982] Master: Address 25705 in frame 7, P6 reading data
+[142:349135] Master: P2 reading 18262
+[142:349135] Master: Page fault on address 18262
+[142:349135] Master: Using free frame 15 for P2 page 17
+[143:351357] Master: P2 reading 18262
+[143:351367] Master: Address 18262 in frame 15, P2 reading data
+[144:353609] Master: P10 reading 26919
+[144:353609] Master: Page fault on address 26919
+[144:353609] Master: Using free frame 16 for P10 page 26
+[145:356050] Master: P10 reading 26919
+[145:356060] Master: Address 26919 in frame 16, P10 reading data
+[162:401367] Master: P6 reading 3086
+[162:401367] Master: Page fault on address 3086
+[162:401367] Master: Using free frame 17 for P6 page 3
+[163:404366] Master: P6 reading 3086
+[163:404376] Master: Address 3086 in frame 17, P6 reading data
+[164:406350] Master: P1 reading 4770
+[164:406350] Master: Page fault on address 4770
+[164:406350] Master: Using free frame 18 for P1 page 4
+[165:409537] Master: P1 reading 4770
+[165:409547] Master: Address 4770 in frame 18, P1 reading data
+[203:502960] Master: P2 terminates. Clearing frames 3 13 15 10 
+[204:504491] Master: Generating process with PID 20
+[204:504733] Master: P6 terminates. Clearing frames 17 12 7 
+[204:504881] Master: P10 terminates. Clearing frames 9 14 16 
+[205:506843] Master: Generating process with PID 21
+[205:506893] Master: P1 terminates. Clearing frames 18 4 5 1 11 
+[206:509592] Master: Generating process with PID 22
+[207:511834] Master: Generating process with PID 23
+[207:512834] Master: P0 reading 7767
+[207:512834] Master: Page fault on address 7767
+[207:512834] Master: Using free frame 1 for P0 page 7
+[207:513040] Master: P4 writing 21281
+[207:513040] Master: Page fault on address 21281
+[207:513040] Master: Using free frame 3 for P4 page 20
+[208:515658] Master: P0 reading 7767
+[208:515668] Master: Address 7767 in frame 1, P0 reading data
+[208:515810] Master: P4 writing 21281
+[208:515820] Master: Address 21281 in frame 3, P4 writing data
+[472:1162317] Master: P12 reading 12243
+[472:1162317] Master: Page fault on address 12243
+[472:1162317] Master: Using free frame 4 for P12 page 11
+[473:1164680] Master: P12 reading 12243
+[473:1164690] Master: Address 12243 in frame 4, P12 reading data
+[507:1248745] Master: P8 reading 3604
+[507:1248745] Master: Page fault on address 3604
+[507:1248745] Master: Using free frame 5 for P8 page 3
+[508:1250743] Master: P8 reading 3604
+[508:1250753] Master: Address 3604 in frame 5, P8 reading data
+[539:1324241] Master: P0 terminates. Clearing frames 0 1 8 2 
+[539:1325391] Master: P4 reading 15502
+[539:1325391] Master: Page fault on address 15502
+[539:1325391] Master: Using free frame 0 for P4 page 15
+[539:1325467] Master: P5 reading 11777
+[539:1325467] Master: Page fault on address 11777
+[539:1325467] Master: Using free frame 1 for P5 page 11
+[539:1325498] Master: P7 writing 7185
+[539:1325498] Master: Page fault on address 7185
+[539:1325498] Master: Using free frame 2 for P7 page 7
+[539:1325539] Master: P9 reading 10666
+[539:1325539] Master: Page fault on address 10666
+[539:1325539] Master: Using free frame 7 for P9 page 10
+[539:1326008] Master: P16 reading 3458
+[539:1326008] Master: Page fault on address 3458
+[539:1326008] Master: Using free frame 8 for P16 page 3
+[539:1326028] Master: P17 reading 3024
+[539:1326028] Master: Page fault on address 3024
+[539:1326028] Master: Using free frame 9 for P17 page 2
+[540:1326916] Master: Generating process with PID 24
+[540:1328071] Master: P4 reading 15502
+[540:1328081] Master: Address 15502 in frame 0, P4 reading data
+[540:1328134] Master: P5 reading 11777
+[540:1328144] Master: Address 11777 in frame 1, P5 reading data
+[540:1328244] Master: P7 writing 7185
+[540:1328254] Master: Address 7185 in frame 2, P7 writing data
+[540:1328353] Master: P9 reading 10666
+[540:1328363] Master: Address 10666 in frame 7, P9 reading data
+[540:1328485] Master: P11 writing 14404
+[540:1328485] Master: Page fault on address 14404
+[540:1328485] Master: Using free frame 10 for P11 page 14
+[540:1328729] Master: P16 reading 3458
+[540:1328739] Master: Address 3458 in frame 8, P16 reading data
+[540:1328813] Master: P17 reading 3024
+[540:1328823] Master: Address 3024 in frame 9, P17 reading data
+[541:1329404] Master: P4 terminates. Clearing frames 0 3 
+[541:1330493] Master: P11 writing 14404
+[541:1330503] Master: Address 14404 in frame 10, P11 writing data
+[542:1331162] Master: Generating process with PID 25
+[542:1331441] Master: P5 terminates. Clearing frames 6 1 
+[542:1332681] Master: P9 reading 15880
+[542:1332681] Master: Page fault on address 15880
+[542:1332681] Master: Using free frame 0 for P9 page 15
+[543:1334170] Master: Generating process with PID 26
+[543:1335707] Master: P9 reading 15880
+[543:1335717] Master: Address 15880 in frame 0, P9 reading data
+[543:1336111] Master: P19 writing 19473
+[543:1336111] Master: Page fault on address 19473
+[543:1336111] Master: Using free frame 1 for P19 page 19
+[544:1338492] Master: P19 writing 19473
+[544:1338502] Master: Address 19473 in frame 1, P19 writing data
+[580:1427578] Master: P13 writing 17982
+[580:1427578] Master: Page fault on address 17982
+[580:1427578] Master: Using free frame 3 for P13 page 17
+[581:1429642] Master: P13 writing 17982
+[581:1429652] Master: Address 17982 in frame 3, P13 writing data
+[1009:2487576] Master: P3 writing 15044
+[1009:2487576] Master: Page fault on address 15044
+[1009:2487576] Master: Using free frame 6 for P3 page 14
+[1010:2489628] Master: P3 writing 15044
+[1010:2489638] Master: Address 15044 in frame 6, P3 writing data
+[1012:2495268] Master: P8 reading 21338
+[1012:2495268] Master: Page fault on address 21338
+[1012:2495268] Master: Using free frame 11 for P8 page 20
+[1012:2495339] Master: P9 reading 5640
+[1012:2495339] Master: Page fault on address 5640
+[1012:2495339] Master: Using free frame 12 for P9 page 5
+[1012:2495435] Master: P13 writing 7133
+[1012:2495435] Master: Page fault on address 7133
+[1012:2495435] Master: Using free frame 13 for P13 page 6
+[1012:2495648] Master: P16 reading 4284
+[1012:2495648] Master: Page fault on address 4284
+[1012:2495648] Master: Using free frame 14 for P16 page 4
+[1012:2495714] Master: P18 reading 2320
+[1012:2495714] Master: Page fault on address 2320
+[1012:2495714] Master: Using free frame 15 for P18 page 2
+[1013:2497232] Master: P8 reading 21338
+[1013:2497242] Master: Address 21338 in frame 11, P8 reading data
+[1013:2497262] Master: P9 reading 5640
+[1013:2497272] Master: Address 5640 in frame 12, P9 reading data
+[1013:2497461] Master: P13 writing 7133
+[1013:2497471] Master: Address 7133 in frame 13, P13 writing data
+[1013:2497494] Master: P16 reading 4284
+[1013:2497504] Master: Address 4284 in frame 14, P16 reading data
+[1013:2497541] Master: P18 reading 2320
+[1013:2497551] Master: Address 2320 in frame 15, P18 reading data
+[1065:2623124] Master: P3 reading 14292
+[1065:2623124] Master: Page fault on address 14292
+[1065:2623124] Master: Using free frame 16 for P3 page 13
+[1066:2624813] Master: P16 terminates. Clearing frames 8 14 
+[1066:2625266] Master: P3 reading 14292
+[1066:2625276] Master: Address 14292 in frame 16, P3 reading data
+[1067:2626934] Master: Generating process with PID 27
+[1067:2627358] Master: P8 terminates. Clearing frames 5 11 
+[1068:2628868] Master: Generating process with PID 28
+[1068:2629357] Master: P13 terminates. Clearing frames 13 3 
+[1068:2629693] Master: P3 reading 9775
+[1068:2629693] Master: Page fault on address 9775
+[1068:2629693] Master: Using free frame 3 for P3 page 9
+[1068:2630234] Master: P12 reading 20596
+[1068:2630234] Master: Page fault on address 20596
+[1068:2630234] Master: Using free frame 5 for P12 page 20
+[1068:2630313] Master: P17 writing 21141
+[1068:2630313] Master: Page fault on address 21141
+[1068:2630313] Master: Using free frame 8 for P17 page 20
+[1068:2630440] Master: P19 reading 9349
+[1068:2630440] Master: Page fault on address 9349
+[1068:2630440] Master: Using free frame 11 for P19 page 9
+[1069:2631010] Master: Generating process with PID 29
+[1069:2632087] Master: P3 reading 9775
+[1069:2632097] Master: Address 9775 in frame 3, P3 reading data
+[1069:2632464] Master: P12 reading 20596
+[1069:2632474] Master: Address 20596 in frame 5, P12 reading data
+[1069:2632714] Master: P17 writing 21141
+[1069:2632724] Master: Address 21141 in frame 8, P17 writing data
+[1069:2632811] Master: P19 reading 9349
+[1069:2632821] Master: Address 9349 in frame 11, P19 reading data
+[1189:2928263] Master: P14 writing 24381
+[1189:2928263] Master: Page fault on address 24381
+[1189:2928263] Master: Using free frame 13 for P14 page 23
+[1190:2931100] Master: P14 writing 24381
+[1190:2931110] Master: Address 24381 in frame 13, P14 writing data
+[1366:3360628] Master: P25 reading 13439
+[1366:3360628] Master: Page fault on address 13439
+[1366:3360628] Master: Using free frame 14 for P25 page 13
+[1367:3363343] Master: P25 reading 13439
+[1367:3363353] Master: Address 13439 in frame 14, P25 reading data
+[1367:3363425] Master: P21 reading 189
+[1367:3363425] Master: Page fault on address 189
+[1367:3363425] Master: Using free frame 17 for P21 page 0
+[1368:3365371] Master: P3 reading 3615
+[1368:3365371] Master: Page fault on address 3615
+[1368:3365371] Master: Using free frame 18 for P3 page 3
+[1368:3365527] Master: P21 reading 189
+[1368:3365537] Master: Address 189 in frame 17, P21 reading data
+[1368:3365845] Master: P12 terminates. Clearing frames 4 5 
+[1369:3366771] Master: Generating process with PID 30
+[1369:3367615] Master: P17 terminates. Clearing frames 9 8 
+[1369:3367942] Master: P3 reading 3615
+[1369:3367952] Master: Address 3615 in frame 18, P3 reading data
+[1370:3369575] Master: Generating process with PID 31
+[1370:3370505] Master: P19 terminates. Clearing frames 11 1 
+[1371:3372358] Master: Generating process with PID 32
+[1374:3380598] Master: P15 writing 18417
+[1374:3380598] Master: Page fault on address 18417
+[1374:3380598] Master: Using free frame 1 for P15 page 17
+[1375:3383400] Master: P15 writing 18417
+[1375:3383410] Master: Address 18417 in frame 1, P15 writing data
+[1375:3383410] Master: Current Frames Usage:
+         #		  Occupied		   RefByte	  DirtyBit
+Frame    0		       Yes		         1	         0
+Frame    1		       Yes		         1	         1
+Frame    2		       Yes		         1	         1
+Frame    3		       Yes		         1	         0
+Frame    4		        No		         0	         0
+Frame    5		        No		         0	         0
+Frame    6		       Yes		         1	         1
+Frame    7		       Yes		         1	         0
+Frame    8		        No		         0	         0
+Frame    9		        No		         0	         0
+Frame   10		       Yes		         1	         1
+Frame   11		        No		         0	         0
+Frame   12		       Yes		         1	         0
+Frame   13		       Yes		         1	         1
+Frame   14		       Yes		         1	         0
+Frame   15		       Yes		         1	         0
+Frame   16		       Yes		         1	         0
+Frame   17		        No		         0	         0
+Frame   18		       Yes		         1	         0
+Frame   19		        No		         0	         0
+Frame   20		        No		         0	         0
+Frame   21		        No		         0	         0
+Frame   22		        No		         0	         0
+Frame   23		        No		         0	         0
+Frame   24		        No		         0	         0
+Frame   25		        No		         0	         0
+Frame   26		        No		         0	         0
+Frame   27		        No		         0	         0
+Frame   28		        No		         0	         0
+Frame   29		        No		         0	         0
+Frame   30		        No		         0	         0
+Frame   31		        No		         0	         0
+Frame   32		        No		         0	         0
+Frame   33		        No		         0	         0
+Frame   34		        No		         0	         0
+Frame   35		        No		         0	         0
+Frame   36		        No		         0	         0
+Frame   37		        No		         0	         0
+Frame   38		        No		         0	         0
+Frame   39		        No		         0	         0
+Frame   40		        No		         0	         0
+Frame   41		        No		         0	         0
+Frame   42		        No		         0	         0
+Frame   43		        No		         0	         0
+Frame   44		        No		         0	         0
+Frame   45		        No		         0	         0
+Frame   46		        No		         0	         0
+Frame   47		        No		         0	         0
+Frame   48		        No		         0	         0
+Frame   49		        No		         0	         0
+Frame   50		        No		         0	         0
+Frame   51		        No		         0	         0
+Frame   52		        No		         0	         0
+Frame   53		        No		         0	         0
+Frame   54		        No		         0	         0
+Frame   55		        No		         0	         0
+Frame   56		        No		         0	         0
+Frame   57		        No		         0	         0
+Frame   58		        No		         0	         0
+Frame   59		        No		         0	         0
+Frame   60		        No		         0	         0
+Frame   61		        No		         0	         0
+Frame   62		        No		         0	         0
+Frame   63		        No		         0	         0
+Frame   64		        No		         0	         0
+Frame   65		        No		         0	         0
+Frame   66		        No		         0	         0
+Frame   67		        No		         0	         0
+Frame   68		        No		         0	         0
+Frame   69		        No		         0	         0
+Frame   70		        No		         0	         0
+Frame   71		        No		         0	         0
+Frame   72		        No		         0	         0
+Frame   73		        No		         0	         0
+Frame   74		        No		         0	         0
+Frame   75		        No		         0	         0
+Frame   76		        No		         0	         0
+Frame   77		        No		         0	         0
+Frame   78		        No		         0	         0
+Frame   79		        No		         0	         0
+Frame   80		        No		         0	         0
+Frame   81		        No		         0	         0
+Frame   82		        No		         0	         0
+Frame   83		        No		         0	         0
+Frame   84		        No		         0	         0
+Frame   85		        No		         0	         0
+Frame   86		        No		         0	         0
+Frame   87		        No		         0	         0
+Frame   88		        No		         0	         0
+Frame   89		        No		         0	         0
+Frame   90		        No		         0	         0
+Frame   91		        No		         0	         0
+Frame   92		        No		         0	         0
+Frame   93		        No		         0	         0
+Frame   94		        No		         0	         0
+Frame   95		        No		         0	         0
+Frame   96		        No		         0	         0
+Frame   97		        No		         0	         0
+Frame   98		        No		         0	         0
+Frame   99		        No		         0	         0
+Frame  100		        No		         0	         0
+Frame  101		        No		         0	         0
+Frame  102		        No		         0	         0
+Frame  103		        No		         0	         0
+Frame  104		        No		         0	         0
+Frame  105		        No		         0	         0
+Frame  106		        No		         0	         0
+Frame  107		        No		         0	         0
+Frame  108		        No		         0	         0
+Frame  109		        No		         0	         0
+Frame  110		        No		         0	         0
+Frame  111		        No		         0	         0
+Frame  112		        No		         0	         0
+Frame  113		        No		         0	         0
+Frame  114		        No		         0	         0
+Frame  115		        No		         0	         0
+Frame  116		        No		         0	         0
+Frame  117		        No		         0	         0
+Frame  118		        No		         0	         0
+Frame  119		        No		         0	         0
+Frame  120		        No		         0	         0
+Frame  121		        No		         0	         0
+Frame  122		        No		         0	         0
+Frame  123		        No		         0	         0
+Frame  124		        No		         0	         0
+Frame  125		        No		         0	         0
+Frame  126		        No		         0	         0
+Frame  127		        No		         0	         0
+Frame  128		        No		         0	         0
+Frame  129		        No		         0	         0
+Frame  130		        No		         0	         0
+Frame  131		        No		         0	         0
+Frame  132		        No		         0	         0
+Frame  133		        No		         0	         0
+Frame  134		        No		         0	         0
+Frame  135		        No		         0	         0
+Frame  136		        No		         0	         0
+Frame  137		        No		         0	         0
+Frame  138		        No		         0	         0
+Frame  139		        No		         0	         0
+Frame  140		        No		         0	         0
+Frame  141		        No		         0	         0
+Frame  142		        No		         0	         0
+Frame  143		        No		         0	         0
+Frame  144		        No		         0	         0
+Frame  145		        No		         0	         0
+Frame  146		        No		         0	         0
+Frame  147		        No		         0	         0
+Frame  148		        No		         0	         0
+Frame  149		        No		         0	         0
+Frame  150		        No		         0	         0
+Frame  151		        No		         0	         0
+Frame  152		        No		         0	         0
+Frame  153		        No		         0	         0
+Frame  154		        No		         0	         0
+Frame  155		        No		         0	         0
+Frame  156		        No		         0	         0
+Frame  157		        No		         0	         0
+Frame  158		        No		         0	         0
+Frame  159		        No		         0	         0
+Frame  160		        No		         0	         0
+Frame  161		        No		         0	         0
+Frame  162		        No		         0	         0
+Frame  163		        No		         0	         0
+Frame  164		        No		         0	         0
+Frame  165		        No		         0	         0
+Frame  166		        No		         0	         0
+Frame  167		        No		         0	         0
+Frame  168		        No		         0	         0
+Frame  169		        No		         0	         0
+Frame  170		        No		         0	         0
+Frame  171		        No		         0	         0
+Frame  172		        No		         0	         0
+Frame  173		        No		         0	         0
+Frame  174		        No		         0	         0
+Frame  175		        No		         0	         0
+Frame  176		        No		         0	         0
+Frame  177		        No		         0	         0
+Frame  178		        No		         0	         0
+Frame  179		        No		         0	         0
+Frame  180		        No		         0	         0
+Frame  181		        No		         0	         0
+Frame  182		        No		         0	         0
+Frame  183		        No		         0	         0
+Frame  184		        No		         0	         0
+Frame  185		        No		         0	         0
+Frame  186		        No		         0	         0
+Frame  187		        No		         0	         0
+Frame  188		        No		         0	         0
+Frame  189		        No		         0	         0
+Frame  190		        No		         0	         0
+Frame  191		        No		         0	         0
+Frame  192		        No		         0	         0
+Frame  193		        No		         0	         0
+Frame  194		        No		         0	         0
+Frame  195		        No		         0	         0
+Frame  196		        No		         0	         0
+Frame  197		        No		         0	         0
+Frame  198		        No		         0	         0
+Frame  199		        No		         0	         0
+Frame  200		        No		         0	         0
+Frame  201		        No		         0	         0
+Frame  202		        No		         0	         0
+Frame  203		        No		         0	         0
+Frame  204		        No		         0	         0
+Frame  205		        No		         0	         0
+Frame  206		        No		         0	         0
+Frame  207		        No		         0	         0
+Frame  208		        No		         0	         0
+Frame  209		        No		         0	         0
+Frame  210		        No		         0	         0
+Frame  211		        No		         0	         0
+Frame  212		        No		         0	         0
+Frame  213		        No		         0	         0
+Frame  214		        No		         0	         0
+Frame  215		        No		         0	         0
+Frame  216		        No		         0	         0
+Frame  217		        No		         0	         0
+Frame  218		        No		         0	         0
+Frame  219		        No		         0	         0
+Frame  220		        No		         0	         0
+Frame  221		        No		         0	         0
+Frame  222		        No		         0	         0
+Frame  223		        No		         0	         0
+Frame  224		        No		         0	         0
+Frame  225		        No		         0	         0
+Frame  226		        No		         0	         0
+Frame  227		        No		         0	         0
+Frame  228		        No		         0	         0
+Frame  229		        No		         0	         0
+Frame  230		        No		         0	         0
+Frame  231		        No		         0	         0
+Frame  232		        No		         0	         0
+Frame  233		        No		         0	         0
+Frame  234		        No		         0	         0
+Frame  235		        No		         0	         0
+Frame  236		        No		         0	         0
+Frame  237		        No		         0	         0
+Frame  238		        No		         0	         0
+Frame  239		        No		         0	         0
+Frame  240		        No		         0	         0
+Frame  241		        No		         0	         0
+Frame  242		        No		         0	         0
+Frame  243		        No		         0	         0
+Frame  244		        No		         0	         0
+Frame  245		        No		         0	         0
+Frame  246		        No		         0	         0
+Frame  247		        No		         0	         0
+Frame  248		        No		         0	         0
+Frame  249		        No		         0	         0
+Frame  250		        No		         0	         0
+Frame  251		        No		         0	         0
+Frame  252		        No		         0	         0
+Frame  253		        No		         0	         0
+Frame  254		        No		         0	         0
+Frame  255		        No		         0	         0
+
+[1376:3384911] Master: P7 reading 2830
+[1376:3384911] Master: Page fault on address 2830
+[1376:3384911] Master: Using free frame 4 for P7 page 2
+[1376:3385277] Master: P14 reading 13770
+[1376:3385277] Master: Page fault on address 13770
+[1376:3385277] Master: Using free frame 5 for P14 page 13
+[1377:3387264] Master: P7 reading 2830
+[1377:3387274] Master: Address 2830 in frame 4, P7 reading data
+[1377:3387735] Master: P14 reading 13770
+[1377:3387745] Master: Address 13770 in frame 5, P14 reading data
+[1496:3682426] Master: P27 reading 1407
+[1496:3682426] Master: Page fault on address 1407
+[1496:3682426] Master: Using free frame 8 for P27 page 1
+[1497:3684501] Master: P27 reading 1407
+[1497:3684511] Master: Address 1407 in frame 8, P27 reading data
+[1503:3697752] Master: P25 reading 22975
+[1503:3697752] Master: Page fault on address 22975
+[1503:3697752] Master: Using free frame 9 for P25 page 22
+[1504:3699916] Master: P25 reading 22975
+[1504:3699926] Master: Address 22975 in frame 9, P25 reading data
+[1505:3701394] Master: P3 terminates. Clearing frames 18 3 16 6 
+[1506:3703645] Master: Generating process with PID 33
+[1506:3703800] Master: P25 terminates. Clearing frames 14 9 
+[1507:3705693] Master: Generating process with PID 34
+[1507:3707394] Master: P23 reading 12384
+[1507:3707394] Master: Page fault on address 12384
+[1507:3707394] Master: Using free frame 3 for P23 page 12
+[1508:3709989] Master: P23 reading 12384
+[1508:3709999] Master: Address 12384 in frame 3, P23 reading data
+[1511:3716352] Master: P21 reading 31317
+[1511:3716352] Master: Page fault on address 31317
+[1511:3716352] Master: Using free frame 6 for P21 page 30
+[1512:3718505] Master: P21 reading 31317
+[1512:3718515] Master: Address 31317 in frame 6, P21 reading data
+[1575:3876270] Master: P23 writing 17335
+[1575:3876270] Master: Page fault on address 17335
+[1575:3876270] Master: Using free frame 9 for P23 page 16
+[1576:3879100] Master: P23 writing 17335
+[1576:3879110] Master: Address 17335 in frame 9, P23 writing data
+[1577:3880675] Master: P21 terminates. Clearing frames 17 6 
+[1578:3883132] Master: Generating process with PID 35
+[1578:3883509] Master: P7 terminates. Clearing frames 4 2 
+[1578:3884261] Master: P20 reading 14754
+[1578:3884261] Master: Page fault on address 14754
+[1578:3884261] Master: Using free frame 2 for P20 page 14
+[1578:3884565] Master: P23 writing 17744
+[1578:3884565] Master: Page fault on address 17744
+[1578:3884565] Master: Using free frame 4 for P23 page 17
+[1579:3885672] Master: Generating process with PID 36
+[1579:3886380] Master: P14 terminates. Clearing frames 5 13 
+[1579:3886758] Master: P20 reading 14754
+[1579:3886768] Master: Address 14754 in frame 2, P20 reading data
+[1579:3887022] Master: P23 writing 17744
+[1579:3887032] Master: Address 17744 in frame 4, P23 writing data
+[1579:3887328] Master: P15 reading 27893
+[1579:3887328] Master: Page fault on address 27893
+[1579:3887328] Master: Using free frame 5 for P15 page 27
+[1580:3887790] Master: Generating process with PID 37
+[1580:3888827] Master: P20 reading 20758
+[1580:3888827] Master: Page fault on address 20758
+[1580:3888827] Master: Using free frame 6 for P20 page 20
+[1580:3889473] Master: P15 reading 27893
+[1580:3889483] Master: Address 27893 in frame 5, P15 reading data
+[1581:3891429] Master: P20 reading 20758
+[1581:3891439] Master: Address 20758 in frame 6, P20 reading data
+[1812:4466429] Master: P9 terminates. Clearing frames 12 7 0 
+[1812:4467591] Master: P29 reading 6745
+[1812:4467591] Master: Page fault on address 6745
+[1812:4467591] Master: Using free frame 0 for P29 page 6
+[1813:4468369] Master: Generating process with PID 38
+[1813:4469772] Master: P28 reading 9978
+[1813:4469772] Master: Page fault on address 9978
+[1813:4469772] Master: Using free frame 7 for P28 page 9
+[1813:4470084] Master: P29 reading 6745
+[1813:4470094] Master: Address 6745 in frame 0, P29 reading data
+[1814:4472846] Master: P28 reading 9978
+[1814:4472856] Master: Address 9978 in frame 7, P28 reading data
+[1814:4473038] Master: P23 reading 28086
+[1814:4473038] Master: Page fault on address 28086
+[1814:4473038] Master: Using free frame 11 for P23 page 27
+[1815:4475837] Master: P23 reading 28086
+[1815:4475847] Master: Address 28086 in frame 11, P23 reading data
+[1873:4617555] Master: P23 terminates. Clearing frames 3 9 4 11 
+[1873:4617798] Master: P15 terminates. Clearing frames 1 5 
+[1873:4617955] Master: P24 writing 26537
+[1873:4617955] Master: Page fault on address 26537
+[1873:4617955] Master: Using free frame 1 for P24 page 25
+[1873:4618052] Master: P22 writing 5772
+[1873:4618052] Master: Page fault on address 5772
+[1873:4618052] Master: Using free frame 3 for P22 page 5
+[1873:4618079] Master: P20 writing 9038
+[1873:4618079] Master: Page fault on address 9038
+[1873:4618079] Master: Using free frame 4 for P20 page 8
+[1873:4618427] Master: P28 reading 16626
+[1873:4618427] Master: Page fault on address 16626
+[1873:4618427] Master: Using free frame 5 for P28 page 16
+[1873:4618620] Master: P30 writing 18679
+[1873:4618620] Master: Page fault on address 18679
+[1873:4618620] Master: Using free frame 9 for P30 page 18
+[1873:4618965] Master: P32 reading 7099
+[1873:4618965] Master: Page fault on address 7099
+[1873:4618965] Master: Using free frame 11 for P32 page 6
+[1874:4619084] Master: Generating process with PID 39
+[1874:4620051] Master: P24 writing 26537
+[1874:4620061] Master: Address 26537 in frame 1, P24 writing data
+[1874:4620132] Master: P22 writing 5772
+[1874:4620142] Master: Address 5772 in frame 3, P22 writing data
+[1874:4620175] Master: P20 writing 9038
+[1874:4620185] Master: Address 9038 in frame 4, P20 writing data
+[1874:4620245] Master: P33 reading 14495
+[1874:4620245] Master: Page fault on address 14495
+[1874:4620245] Master: Using free frame 12 for P33 page 14
+[1874:4620563] Master: P28 reading 16626
+[1874:4620573] Master: Address 16626 in frame 5, P28 reading data
+[1874:4620774] Master: P30 writing 18679
+[1874:4620784] Master: Address 18679 in frame 9, P30 writing data
+[1874:4621182] Master: P32 reading 7099
+[1874:4621192] Master: Address 7099 in frame 11, P32 reading data
+[1875:4621658] Master: Generating process with PID 40
+[1875:4621749] Master: P20 terminates. Clearing frames 4 2 6 
+[1875:4622910] Master: P33 reading 14495
+[1875:4622920] Master: Address 14495 in frame 12, P33 reading data
+[1875:4623471] Master: P31 writing 20951
+[1875:4623471] Master: Page fault on address 20951
+[1875:4623471] Master: Using free frame 2 for P31 page 20
+[1876:4623877] Master: Generating process with PID 41
+[1876:4624675] Master: P24 reading 32357
+[1876:4624675] Master: Page fault on address 32357
+[1876:4624675] Master: Using free frame 4 for P24 page 31
+[1876:4624884] Master: P33 writing 1615
+[1876:4624884] Master: Page fault on address 1615
+[1876:4624884] Master: Using free frame 6 for P33 page 1
+[1876:4625416] Master: P30 reading 23088
+[1876:4625416] Master: Page fault on address 23088
+[1876:4625416] Master: Using free frame 13 for P30 page 22
+[1876:4625486] Master: P29 reading 15090
+[1876:4625486] Master: Page fault on address 15090
+[1876:4625486] Master: Using free frame 14 for P29 page 14
+[1876:4625519] Master: P27 writing 11499
+[1876:4625519] Master: Page fault on address 11499
+[1876:4625519] Master: Using free frame 16 for P27 page 11
+[1876:4625612] Master: P31 writing 20951
+[1876:4625622] Master: Address 20951 in frame 2, P31 writing data
+[1877:4627038] Master: P24 reading 32357
+[1877:4627048] Master: Address 32357 in frame 4, P24 reading data
+[1877:4627190] Master: P33 writing 1615
+[1877:4627200] Master: Address 1615 in frame 6, P33 writing data
+[1877:4627629] Master: P30 reading 23088
+[1877:4627639] Master: Address 23088 in frame 13, P30 reading data
+[1877:4627683] Master: P29 reading 15090
+[1877:4627693] Master: Address 15090 in frame 14, P29 reading data
+[1877:4627904] Master: P27 writing 11499
+[1877:4627914] Master: Address 11499 in frame 16, P27 writing data
+[2021:4979985] Master: P35 reading 21174
+[2021:4979985] Master: Page fault on address 21174
+[2021:4979985] Master: Using free frame 17 for P35 page 20
+[2022:4982388] Master: P35 reading 21174
+[2022:4982398] Master: Address 21174 in frame 17, P35 reading data
+[2027:4995890] Master: P28 reading 26046
+[2027:4995890] Master: Page fault on address 26046
+[2027:4995890] Master: Using free frame 18 for P28 page 25
+[2028:4997902] Master: P28 reading 26046
+[2028:4997912] Master: Address 26046 in frame 18, P28 reading data
+[2028:4998410] Master: P32 writing 10543
+[2028:4998410] Master: Page fault on address 10543
+[2028:4998410] Master: Using free frame 19 for P32 page 10
+[2029:5000430] Master: P32 writing 10543
+[2029:5000440] Master: Address 10543 in frame 19, P32 writing data
+[2189:5394590] Master: P39 reading 22488
+[2189:5394590] Master: Page fault on address 22488
+[2189:5394590] Master: Using free frame 20 for P39 page 21
+[2190:5396903] Master: P39 reading 22488
+[2190:5396913] Master: Address 22488 in frame 20, P39 reading data
+[2193:5402662] Master: P24 reading 18647
+[2193:5402662] Master: Page fault on address 18647
+[2193:5402662] Master: Using free frame 21 for P24 page 18
+[2194:5404439] Master: P24 reading 18647
+[2194:5404449] Master: Address 18647 in frame 21, P24 reading data
+[2194:5404581] Master: P33 reading 28881
+[2194:5404581] Master: Page fault on address 28881
+[2194:5404581] Master: Using free frame 22 for P33 page 28
+[2195:5407645] Master: P33 reading 28881
+[2195:5407655] Master: Address 28881 in frame 22, P33 reading data
+[2248:5541384] Master: P41 reading 5775
+[2248:5541384] Master: Page fault on address 5775
+[2248:5541384] Master: Using free frame 23 for P41 page 5
+[2248:5541855] Master: P11 writing 26520
+[2248:5541855] Master: Page fault on address 26520
+[2248:5541855] Master: Using free frame 24 for P11 page 25
+[2248:5542147] Master: P31 reading 32320
+[2248:5542147] Master: Page fault on address 32320
+[2248:5542147] Master: Using free frame 25 for P31 page 31
+[2249:5543838] Master: P27 terminates. Clearing frames 8 16 
+[2249:5544117] Master: P41 reading 5775
+[2249:5544127] Master: Address 5775 in frame 23, P41 reading data
+[2249:5544494] Master: P11 writing 26520
+[2249:5544504] Master: Address 26520 in frame 24, P11 writing data
+[2249:5544805] Master: P31 reading 32320
+[2249:5544815] Master: Address 32320 in frame 25, P31 reading data
+[2250:5545491] Master: Generating process with PID 42
+[2250:5546363] Master: P31 terminates. Clearing frames 2 25 
+[2250:5547107] Master: P30 reading 8895
+[2250:5547107] Master: Page fault on address 8895
+[2250:5547107] Master: Using free frame 2 for P30 page 8
+[2250:5547142] Master: P29 reading 27850
+[2250:5547142] Master: Page fault on address 27850
+[2250:5547142] Master: Using free frame 8 for P29 page 27
+[2251:5547574] Master: Generating process with PID 43
+[2251:5548651] Master: P41 writing 8033
+[2251:5548651] Master: Page fault on address 8033
+[2251:5548651] Master: Using free frame 16 for P41 page 7
+[2251:5549278] Master: P30 reading 8895
+[2251:5549288] Master: Address 8895 in frame 2, P30 reading data
+[2251:5549346] Master: P29 reading 27850
+[2251:5549356] Master: Address 27850 in frame 8, P29 reading data
+[2252:5551166] Master: P41 writing 8033
+[2252:5551176] Master: Address 8033 in frame 16, P41 writing data
+[2305:5679430] Master: P28 terminates. Clearing frames 7 5 18 
+[2305:5679625] Master: P11 terminates. Clearing frames 10 24 
+[2305:5680329] Master: P36 writing 27115
+[2305:5680329] Master: Page fault on address 27115
+[2305:5680329] Master: Using free frame 5 for P36 page 26
+[2306:5681997] Master: Generating process with PID 44
+[2306:5682937] Master: P32 terminates. Clearing frames 11 19 
+[2306:5683385] Master: P36 writing 27115
+[2306:5683395] Master: Address 27115 in frame 5, P36 writing data
+[2307:5684474] Master: Generating process with PID 45
+[2307:5684474] Master: P24 terminates. Clearing frames 21 1 4 
+[2307:5685564] Master: P34 reading 3375
+[2307:5685564] Master: Page fault on address 3375
+[2307:5685564] Master: Using free frame 1 for P34 page 3
+[2308:5686605] Master: Generating process with PID 46
+[2308:5686724] Master: P33 terminates. Clearing frames 6 12 22 
+[2308:5687769] Master: P34 reading 3375
+[2308:5687779] Master: Address 3375 in frame 1, P34 reading data
+[2309:5688860] Master: Generating process with PID 47
+[2309:5690004] Master: P34 reading 28735
+[2309:5690004] Master: Page fault on address 28735
+[2309:5690004] Master: Using free frame 4 for P34 page 28
+[2309:5690300] Master: P39 reading 29867
+[2309:5690300] Master: Page fault on address 29867
+[2309:5690300] Master: Using free frame 6 for P39 page 29
+[2310:5690821] Master: Generating process with PID 48
+[2310:5692296] Master: P34 reading 28735
+[2310:5692306] Master: Address 28735 in frame 4, P34 reading data
+[2310:5692603] Master: P39 reading 29867
+[2310:5692613] Master: Address 29867 in frame 6, P39 reading data
+[2329:5739650] Master: P42 reading 15009
+[2329:5739650] Master: Page fault on address 15009
+[2329:5739650] Master: Using free frame 7 for P42 page 14
+[2329:5739808] Master: P18 reading 9834
+[2329:5739808] Master: Page fault on address 9834
+[2329:5739808] Master: Using free frame 10 for P18 page 9
+[2330:5741357] Master: P41 reading 32710
+[2330:5741357] Master: Page fault on address 32710
+[2330:5741357] Master: Using free frame 11 for P41 page 31
+[2330:5741727] Master: P42 reading 15009
+[2330:5741737] Master: Address 15009 in frame 7, P42 reading data
+[2330:5741897] Master: P18 reading 9834
+[2330:5741907] Master: Address 9834 in frame 10, P18 reading data
+[2331:5742805] Master: P29 terminates. Clearing frames 0 14 8 
+[2331:5743193] Master: P41 reading 32710
+[2331:5743203] Master: Address 32710 in frame 11, P41 reading data
+[2332:5745146] Master: Generating process with PID 49
+[2352:5797701] Master: P30 terminates. Clearing frames 2 9 13 
+[2353:5798323] Master: Generating process with PID 50
+[2353:5799639] Master: P41 reading 512
+[2353:5799639] Master: Page fault on address 512
+[2353:5799639] Master: Using free frame 0 for P41 page 0
+[2353:5799865] Master: P35 reading 16951
+[2353:5799865] Master: Page fault on address 16951
+[2353:5799865] Master: Using free frame 2 for P35 page 16
+[2353:5799958] Master: P36 reading 21752
+[2353:5799958] Master: Page fault on address 21752
+[2353:5799958] Master: Using free frame 8 for P36 page 21
+[2353:5800313] Master: P37 writing 29020
+[2353:5800313] Master: Page fault on address 29020
+[2353:5800313] Master: Using free frame 9 for P37 page 28
+[2353:5800427] Master: P42 reading 6671
+[2353:5800427] Master: Page fault on address 6671
+[2353:5800427] Master: Using free frame 12 for P42 page 6
+[2354:5801793] Master: P41 reading 512
+[2354:5801803] Master: Address 512 in frame 0, P41 reading data
+[2354:5801992] Master: P35 reading 16951
+[2354:5802002] Master: Address 16951 in frame 2, P35 reading data
+[2354:5802064] Master: P36 reading 21752
+[2354:5802074] Master: Address 21752 in frame 8, P36 reading data
+[2354:5802074] Master: Current Frames Usage:
+         #		  Occupied		   RefByte	  DirtyBit
+Frame    0		        No		         0	         0
+Frame    1		       Yes		         1	         0
+Frame    2		       Yes		         1	         0
+Frame    3		       Yes		         1	         1
+Frame    4		       Yes		         1	         0
+Frame    5		       Yes		         1	         1
+Frame    6		       Yes		         1	         0
+Frame    7		       Yes		         1	         0
+Frame    8		       Yes		         1	         0
+Frame    9		       Yes		         1	         0
+Frame   10		       Yes		         1	         0
+Frame   11		       Yes		         1	         0
+Frame   12		       Yes		         1	         0
+Frame   13		        No		         0	         0
+Frame   14		        No		         0	         0
+Frame   15		       Yes		         1	         0
+Frame   16		       Yes		         1	         1
+Frame   17		       Yes		         1	         0
+Frame   18		        No		         0	         0
+Frame   19		        No		         0	         0
+Frame   20		       Yes		         1	         0
+Frame   21		        No		         0	         0
+Frame   22		        No		         0	         0
+Frame   23		       Yes		         1	         0
+Frame   24		        No		         0	         0
+Frame   25		        No		         0	         0
+Frame   26		        No		         0	         0
+Frame   27		        No		         0	         0
+Frame   28		        No		         0	         0
+Frame   29		        No		         0	         0
+Frame   30		        No		         0	         0
+Frame   31		        No		         0	         0
+Frame   32		        No		         0	         0
+Frame   33		        No		         0	         0
+Frame   34		        No		         0	         0
+Frame   35		        No		         0	         0
+Frame   36		        No		         0	         0
+Frame   37		        No		         0	         0
+Frame   38		        No		         0	         0
+Frame   39		        No		         0	         0
+Frame   40		        No		         0	         0
+Frame   41		        No		         0	         0
+Frame   42		        No		         0	         0
+Frame   43		        No		         0	         0
+Frame   44		        No		         0	         0
+Frame   45		        No		         0	         0
+Frame   46		        No		         0	         0
+Frame   47		        No		         0	         0
+Frame   48		        No		         0	         0
+Frame   49		        No		         0	         0
+Frame   50		        No		         0	         0
+Frame   51		        No		         0	         0
+Frame   52		        No		         0	         0
+Frame   53		        No		         0	         0
+Frame   54		        No		         0	         0
+Frame   55		        No		         0	         0
+Frame   56		        No		         0	         0
+Frame   57		        No		         0	         0
+Frame   58		        No		         0	         0
+Frame   59		        No		         0	         0
+Frame   60		        No		         0	         0
+Frame   61		        No		         0	         0
+Frame   62		        No		         0	         0
+Frame   63		        No		         0	         0
+Frame   64		        No		         0	         0
+Frame   65		        No		         0	         0
+Frame   66		        No		         0	         0
+Frame   67		        No		         0	         0
+Frame   68		        No		         0	         0
+Frame   69		        No		         0	         0
+Frame   70		        No		         0	         0
+Frame   71		        No		         0	         0
+Frame   72		        No		         0	         0
+Frame   73		        No		         0	         0
+Frame   74		        No		         0	         0
+Frame   75		        No		         0	         0
+Frame   76		        No		         0	         0
+Frame   77		        No		         0	         0
+Frame   78		        No		         0	         0
+Frame   79		        No		         0	         0
+Frame   80		        No		         0	         0
+Frame   81		        No		         0	         0
+Frame   82		        No		         0	         0
+Frame   83		        No		         0	         0
+Frame   84		        No		         0	         0
+Frame   85		        No		         0	         0
+Frame   86		        No		         0	         0
+Frame   87		        No		         0	         0
+Frame   88		        No		         0	         0
+Frame   89		        No		         0	         0
+Frame   90		        No		         0	         0
+Frame   91		        No		         0	         0
+Frame   92		        No		         0	         0
+Frame   93		        No		         0	         0
+Frame   94		        No		         0	         0
+Frame   95		        No		         0	         0
+Frame   96		        No		         0	         0
+Frame   97		        No		         0	         0
+Frame   98		        No		         0	         0
+Frame   99		        No		         0	         0
+Frame  100		        No		         0	         0
+Frame  101		        No		         0	         0
+Frame  102		        No		         0	         0
+Frame  103		        No		         0	         0
+Frame  104		        No		         0	         0
+Frame  105		        No		         0	         0
+Frame  106		        No		         0	         0
+Frame  107		        No		         0	         0
+Frame  108		        No		         0	         0
+Frame  109		        No		         0	         0
+Frame  110		        No		         0	         0
+Frame  111		        No		         0	         0
+Frame  112		        No		         0	         0
+Frame  113		        No		         0	         0
+Frame  114		        No		         0	         0
+Frame  115		        No		         0	         0
+Frame  116		        No		         0	         0
+Frame  117		        No		         0	         0
+Frame  118		        No		         0	         0
+Frame  119		        No		         0	         0
+Frame  120		        No		         0	         0
+Frame  121		        No		         0	         0
+Frame  122		        No		         0	         0
+Frame  123		        No		         0	         0
+Frame  124		        No		         0	         0
+Frame  125		        No		         0	         0
+Frame  126		        No		         0	         0
+Frame  127		        No		         0	         0
+Frame  128		        No		         0	         0
+Frame  129		        No		         0	         0
+Frame  130		        No		         0	         0
+Frame  131		        No		         0	         0
+Frame  132		        No		         0	         0
+Frame  133		        No		         0	         0
+Frame  134		        No		         0	         0
+Frame  135		        No		         0	         0
+Frame  136		        No		         0	         0
+Frame  137		        No		         0	         0
+Frame  138		        No		         0	         0
+Frame  139		        No		         0	         0
+Frame  140		        No		         0	         0
+Frame  141		        No		         0	         0
+Frame  142		        No		         0	         0
+Frame  143		        No		         0	         0
+Frame  144		        No		         0	         0
+Frame  145		        No		         0	         0
+Frame  146		        No		         0	         0
+Frame  147		        No		         0	         0
+Frame  148		        No		         0	         0
+Frame  149		        No		         0	         0
+Frame  150		        No		         0	         0
+Frame  151		        No		         0	         0
+Frame  152		        No		         0	         0
+Frame  153		        No		         0	         0
+Frame  154		        No		         0	         0
+Frame  155		        No		         0	         0
+Frame  156		        No		         0	         0
+Frame  157		        No		         0	         0
+Frame  158		        No		         0	         0
+Frame  159		        No		         0	         0
+Frame  160		        No		         0	         0
+Frame  161		        No		         0	         0
+Frame  162		        No		         0	         0
+Frame  163		        No		         0	         0
+Frame  164		        No		         0	         0
+Frame  165		        No		         0	         0
+Frame  166		        No		         0	         0
+Frame  167		        No		         0	         0
+Frame  168		        No		         0	         0
+Frame  169		        No		         0	         0
+Frame  170		        No		         0	         0
+Frame  171		        No		         0	         0
+Frame  172		        No		         0	         0
+Frame  173		        No		         0	         0
+Frame  174		        No		         0	         0
+Frame  175		        No		         0	         0
+Frame  176		        No		         0	         0
+Frame  177		        No		         0	         0
+Frame  178		        No		         0	         0
+Frame  179		        No		         0	         0
+Frame  180		        No		         0	         0
+Frame  181		        No		         0	         0
+Frame  182		        No		         0	         0
+Frame  183		        No		         0	         0
+Frame  184		        No		         0	         0
+Frame  185		        No		         0	         0
+Frame  186		        No		         0	         0
+Frame  187		        No		         0	         0
+Frame  188		        No		         0	         0
+Frame  189		        No		         0	         0
+Frame  190		        No		         0	         0
+Frame  191		        No		         0	         0
+Frame  192		        No		         0	         0
+Frame  193		        No		         0	         0
+Frame  194		        No		         0	         0
+Frame  195		        No		         0	         0
+Frame  196		        No		         0	         0
+Frame  197		        No		         0	         0
+Frame  198		        No		         0	         0
+Frame  199		        No		         0	         0
+Frame  200		        No		         0	         0
+Frame  201		        No		         0	         0
+Frame  202		        No		         0	         0
+Frame  203		        No		         0	         0
+Frame  204		        No		         0	         0
+Frame  205		        No		         0	         0
+Frame  206		        No		         0	         0
+Frame  207		        No		         0	         0
+Frame  208		        No		         0	         0
+Frame  209		        No		         0	         0
+Frame  210		        No		         0	         0
+Frame  211		        No		         0	         0
+Frame  212		        No		         0	         0
+Frame  213		        No		         0	         0
+Frame  214		        No		         0	         0
+Frame  215		        No		         0	         0
+Frame  216		        No		         0	         0
+Frame  217		        No		         0	         0
+Frame  218		        No		         0	         0
+Frame  219		        No		         0	         0
+Frame  220		        No		         0	         0
+Frame  221		        No		         0	         0
+Frame  222		        No		         0	         0
+Frame  223		        No		         0	         0
+Frame  224		        No		         0	         0
+Frame  225		        No		         0	         0
+Frame  226		        No		         0	         0
+Frame  227		        No		         0	         0
+Frame  228		        No		         0	         0
+Frame  229		        No		         0	         0
+Frame  230		        No		         0	         0
+Frame  231		        No		         0	         0
+Frame  232		        No		         0	         0
+Frame  233		        No		         0	         0
+Frame  234		        No		         0	         0
+Frame  235		        No		         0	         0
+Frame  236		        No		         0	         0
+Frame  237		        No		         0	         0
+Frame  238		        No		         0	         0
+Frame  239		        No		         0	         0
+Frame  240		        No		         0	         0
+Frame  241		        No		         0	         0
+Frame  242		        No		         0	         0
+Frame  243		        No		         0	         0
+Frame  244		        No		         0	         0
+Frame  245		        No		         0	         0
+Frame  246		        No		         0	         0
+Frame  247		        No		         0	         0
+Frame  248		        No		         0	         0
+Frame  249		        No		         0	         0
+Frame  250		        No		         0	         0
+Frame  251		        No		         0	         0
+Frame  252		        No		         0	         0
+Frame  253		        No		         0	         0
+Frame  254		        No		         0	         0
+Frame  255		        No		         0	         0
+
+[2354:5802395] Master: P37 writing 29020
+[2354:5802405] Master: Address 29020 in frame 9, P37 writing data
+[2354:5802483] Master: P42 reading 6671
+[2354:5802493] Master: Address 6671 in frame 12, P42 reading data
+[2355:5803018] Master: P35 terminates. Clearing frames 2 17 
+[2356:5804995] Master: Generating process with PID 51
+[2356:5806291] Master: P36 reading 8614
+[2356:5806291] Master: Page fault on address 8614
+[2356:5806291] Master: Using free frame 2 for P36 page 8
+[2356:5806634] Master: P37 reading 13484
+[2356:5806634] Master: Page fault on address 13484
+[2356:5806634] Master: Using free frame 13 for P37 page 13
+[2357:5808147] Master: P36 reading 8614
+[2357:5808157] Master: Address 8614 in frame 2, P36 reading data
+[2357:5808454] Master: P37 reading 13484
+[2357:5808464] Master: Address 13484 in frame 13, P37 reading data
+[2390:5888662] Master: P39 terminates. Clearing frames 20 6 
+[2390:5888933] Master: P18 terminates. Clearing frames 15 10 
+[2390:5889879] Master: P40 writing 4957
+[2390:5889879] Master: Page fault on address 4957
+[2390:5889879] Master: Using free frame 6 for P40 page 4
+[2391:5890371] Master: Generating process with PID 52
+[2391:5891588] Master: P34 writing 13310
+[2391:5891588] Master: Page fault on address 13310
+[2391:5891588] Master: Using free frame 10 for P34 page 12
+[2391:5892265] Master: P40 writing 4957
+[2391:5892275] Master: Address 4957 in frame 6, P40 writing data
+[2392:5892770] Master: Generating process with PID 53
+[2392:5893871] Master: P34 writing 13310
+[2392:5893881] Master: Address 13310 in frame 10, P34 writing data
+[2392:5894424] Master: P40 reading 2267
+[2392:5894424] Master: Page fault on address 2267
+[2392:5894424] Master: Using free frame 14 for P40 page 2
+[2393:5897268] Master: P40 reading 2267
+[2393:5897278] Master: Address 2267 in frame 14, P40 reading data
+[2413:5946362] Master: P34 writing 3731
+[2413:5946372] Master: Address 3731 in frame 1, P34 writing data
+[2415:5951780] Master: P40 reading 11096
+[2415:5951780] Master: Page fault on address 11096
+[2415:5951780] Master: Using free frame 15 for P40 page 10
+[2416:5954109] Master: P40 reading 11096
+[2416:5954119] Master: Address 11096 in frame 15, P40 reading data
+[2472:6091371] Master: P22 reading 24455
+[2472:6091371] Master: Page fault on address 24455
+[2472:6091371] Master: Using free frame 17 for P22 page 23
+[2472:6091452] Master: P41 terminates. Clearing frames 0 23 16 11 
+[2472:6092233] Master: P43 reading 30581
+[2472:6092233] Master: Page fault on address 30581
+[2472:6092233] Master: Using free frame 0 for P43 page 29
+[2473:6092959] Master: Generating process with PID 54
+[2473:6094031] Master: P22 reading 24455
+[2473:6094041] Master: Address 24455 in frame 17, P22 reading data
+[2473:6094716] Master: P42 reading 19970
+[2473:6094716] Master: Page fault on address 19970
+[2473:6094716] Master: Using free frame 11 for P42 page 19
+[2473:6094799] Master: P43 reading 30581
+[2473:6094809] Master: Address 30581 in frame 0, P43 reading data
+[2474:6097365] Master: P42 reading 19970
+[2474:6097375] Master: Address 19970 in frame 11, P42 reading data
+[2537:6250317] Master: P22 terminates. Clearing frames 3 17 
+[2537:6251436] Master: P46 writing 6830
+[2537:6251436] Master: Page fault on address 6830
+[2537:6251436] Master: Using free frame 3 for P46 page 6
+[2537:6251706] Master: P36 reading 11238
+[2537:6251706] Master: Page fault on address 11238
+[2537:6251706] Master: Using free frame 16 for P36 page 10
+[2537:6252203] Master: P37 writing 19903
+[2537:6252203] Master: Page fault on address 19903
+[2537:6252203] Master: Using free frame 17 for P37 page 19
+[2538:6253071] Master: Generating process with PID 55
+[2538:6254115] Master: P46 writing 6830
+[2538:6254125] Master: Address 6830 in frame 3, P46 writing data
+[2538:6254433] Master: P36 reading 11238
+[2538:6254443] Master: Address 11238 in frame 16, P36 reading data
+[2538:6254839] Master: P37 writing 19903
+[2538:6254849] Master: Address 19903 in frame 17, P37 writing data
+[2622:6463159] Master: P34 terminates. Clearing frames 1 10 4 
+[2622:6464413] Master: P49 reading 16995
+[2622:6464413] Master: Page fault on address 16995
+[2622:6464413] Master: Using free frame 1 for P49 page 16
+[2622:6464559] Master: P40 reading 13081
+[2622:6464559] Master: Page fault on address 13081
+[2622:6464559] Master: Using free frame 4 for P40 page 12
+[2623:6465816] Master: Generating process with PID 56
+[2623:6466660] Master: P42 terminates. Clearing frames 12 7 11 
+[2623:6467348] Master: P50 reading 16046
+[2623:6467348] Master: Page fault on address 16046
+[2623:6467348] Master: Using free frame 7 for P50 page 15
+[2623:6467398] Master: P49 reading 16995
+[2623:6467408] Master: Address 16995 in frame 1, P49 reading data
+[2623:6467558] Master: P40 reading 13081
+[2623:6467568] Master: Address 13081 in frame 4, P40 reading data
+[2624:6468460] Master: Generating process with PID 57
+[2624:6468906] Master: P36 terminates. Clearing frames 2 16 8 5 
+[2624:6470088] Master: P45 writing 7041
+[2624:6470088] Master: Page fault on address 7041
+[2624:6470088] Master: Using free frame 2 for P45 page 6
+[2624:6470166] Master: P50 reading 16046
+[2624:6470176] Master: Address 16046 in frame 7, P50 reading data
+[2625:6471371] Master: Generating process with PID 58
+[2625:6471946] Master: P37 terminates. Clearing frames 13 17 9 
+[2625:6472992] Master: P45 writing 7041
+[2625:6473002] Master: Address 7041 in frame 2, P45 writing data
+[2626:6473817] Master: Generating process with PID 59
+[2720:6714959] Master: P26 reading 26056
+[2720:6714959] Master: Page fault on address 26056
+[2720:6714959] Master: Using free frame 5 for P26 page 25
+[2721:6717212] Master: P26 reading 26056
+[2721:6717222] Master: Address 26056 in frame 5, P26 reading data
+[2722:6718991] Master: P40 terminates. Clearing frames 14 6 15 4 
+[2723:6719974] Master: Generating process with PID 60
+[2723:6721289] Master: P26 reading 1855
+[2723:6721289] Master: Page fault on address 1855
+[2723:6721289] Master: Using free frame 4 for P26 page 1
+[2723:6721493] Master: P44 writing 12165
+[2723:6721493] Master: Page fault on address 12165
+[2723:6721493] Master: Using free frame 6 for P44 page 11
+[2723:6721723] Master: P50 reading 31000
+[2723:6721723] Master: Page fault on address 31000
+[2723:6721723] Master: Using free frame 8 for P50 page 30
+[2723:6721742] Master: P49 reading 18424
+[2723:6721742] Master: Page fault on address 18424
+[2723:6721742] Master: Using free frame 9 for P49 page 17
+[2723:6721918] Master: P43 writing 10782
+[2723:6721918] Master: Page fault on address 10782
+[2723:6721918] Master: Using free frame 10 for P43 page 10
+[2724:6724088] Master: P26 reading 1855
+[2724:6724098] Master: Address 1855 in frame 4, P26 reading data
+[2724:6724231] Master: P44 writing 12165
+[2724:6724241] Master: Address 12165 in frame 6, P44 writing data
+[2724:6724414] Master: P50 reading 31000
+[2724:6724424] Master: Address 31000 in frame 8, P50 reading data
+[2724:6724471] Master: P49 reading 18424
+[2724:6724481] Master: Address 18424 in frame 9, P49 reading data
+[2724:6724701] Master: P43 writing 10782
+[2724:6724711] Master: Address 10782 in frame 10, P43 writing data
+[2743:6772202] Master: P44 writing 32030
+[2743:6772202] Master: Page fault on address 32030
+[2743:6772202] Master: Using free frame 11 for P44 page 31
+[2744:6774023] Master: P43 terminates. Clearing frames 10 0 
+[2744:6774530] Master: P44 writing 32030
+[2744:6774540] Master: Address 32030 in frame 11, P44 writing data
+[2745:6776096] Master: Generating process with PID 61
+[2745:6776765] Master: P49 terminates. Clearing frames 1 9 
+[2745:6777155] Master: P46 reading 894
+[2745:6777155] Master: Page fault on address 894
+[2745:6777155] Master: Using free frame 0 for P46 page 0
+[2745:6777278] Master: P47 reading 22571
+[2745:6777278] Master: Page fault on address 22571
+[2745:6777278] Master: Using free frame 1 for P47 page 22
+[2745:6777401] Master: P26 reading 17898
+[2745:6777401] Master: Page fault on address 17898
+[2745:6777401] Master: Using free frame 9 for P26 page 17
+[2745:6777555] Master: P44 writing 22824
+[2745:6777555] Master: Page fault on address 22824
+[2745:6777555] Master: Using free frame 10 for P44 page 22
+[2745:6777689] Master: P45 reading 14149
+[2745:6777689] Master: Page fault on address 14149
+[2745:6777689] Master: Using free frame 12 for P45 page 13
+[2745:6777742] Master: P50 reading 9227
+[2745:6777742] Master: Page fault on address 9227
+[2745:6777742] Master: Using free frame 13 for P50 page 9
+[2746:6779016] Master: Generating process with PID 62
+[2746:6780241] Master: P46 reading 894
+[2746:6780251] Master: Address 894 in frame 0, P46 reading data
+[2746:6780397] Master: P47 reading 22571
+[2746:6780407] Master: Address 22571 in frame 1, P47 reading data
+[2746:6780467] Master: P26 reading 17898
+[2746:6780477] Master: Address 17898 in frame 9, P26 reading data
+[2746:6780584] Master: P44 writing 22824
+[2746:6780594] Master: Address 22824 in frame 10, P44 writing data
+[2746:6780745] Master: P45 reading 14149
+[2746:6780755] Master: Address 14149 in frame 12, P45 reading data
+[2746:6780813] Master: P50 reading 9227
+[2746:6780823] Master: Address 9227 in frame 13, P50 reading data
+[3015:7455190] Master: P55 reading 22910
+[3015:7455190] Master: Page fault on address 22910
+[3015:7455190] Master: Using free frame 14 for P55 page 22
+[3016:7457977] Master: P55 reading 22910
+[3016:7457987] Master: Address 22910 in frame 14, P55 reading data
+[3020:7467046] Master: P26 reading 26070
+[3020:7467056] Master: Address 26070 in frame 5, P26 reading data
+[3073:7597549] Master: P46 terminates. Clearing frames 0 3 
+[3073:7597826] Master: P26 terminates. Clearing frames 4 9 5 
+[3073:7598142] Master: P45 terminates. Clearing frames 2 12 
+[3073:7598213] Master: P50 terminates. Clearing frames 13 7 8 
+[3073:7598664] Master: P55 reading 31838
+[3073:7598664] Master: Page fault on address 31838
+[3073:7598664] Master: Using free frame 0 for P55 page 31
+[3073:7598789] Master: P47 reading 10881
+[3073:7598789] Master: Page fault on address 10881
+[3073:7598789] Master: Using free frame 2 for P47 page 10
+[3073:7598995] Master: P44 reading 12454
+[3073:7598995] Master: Page fault on address 12454
+[3073:7598995] Master: Using free frame 3 for P44 page 12
+[3073:7599095] Master: P52 reading 2914
+[3073:7599095] Master: Page fault on address 2914
+[3073:7599095] Master: Using free frame 4 for P52 page 2
+[3073:7599307] Master: P59 writing 26188
+[3073:7599307] Master: Page fault on address 26188
+[3073:7599307] Master: Using free frame 5 for P59 page 25
+[3073:7599405] Master: P57 writing 4823
+[3073:7599405] Master: Page fault on address 4823
+[3073:7599405] Master: Using free frame 7 for P57 page 4
+[3073:7599470] Master: P53 writing 26479
+[3073:7599470] Master: Page fault on address 26479
+[3073:7599470] Master: Using free frame 8 for P53 page 25
+[3074:7600036] Master: Generating process with PID 63
+[3074:7601295] Master: P55 reading 31838
+[3074:7601305] Master: Address 31838 in frame 0, P55 reading data
+[3074:7601407] Master: P47 reading 10881
+[3074:7601417] Master: Address 10881 in frame 2, P47 reading data
+[3074:7601639] Master: P51 reading 28787
+[3074:7601639] Master: Page fault on address 28787
+[3074:7601639] Master: Using free frame 9 for P51 page 28
+[3074:7601718] Master: P44 reading 12454
+[3074:7601728] Master: Address 12454 in frame 3, P44 reading data
+[3074:7601850] Master: P52 reading 2914
+[3074:7601860] Master: Address 2914 in frame 4, P52 reading data
+[3074:7602070] Master: P59 writing 26188
+[3074:7602080] Master: Address 26188 in frame 5, P59 writing data
+[3074:7602092] Master: P57 writing 4823
+[3074:7602102] Master: Address 4823 in frame 7, P57 writing data
+[3074:7602172] Master: P53 writing 26479
+[3074:7602182] Master: Address 26479 in frame 8, P53 writing data
+[3075:7602653] Master: Generating process with PID 64
+[3075:7602949] Master: P44 terminates. Clearing frames 6 3 10 11 
+[3075:7603645] Master: P55 writing 4521
+[3075:7603645] Master: Page fault on address 4521
+[3075:7603645] Master: Using free frame 3 for P55 page 4
+[3075:7603970] Master: P51 reading 28787
+[3075:7603980] Master: Address 28787 in frame 9, P51 reading data
+[3075:7604506] Master: P57 reading 2851
+[3075:7604506] Master: Page fault on address 2851
+[3075:7604506] Master: Using free frame 6 for P57 page 2
+[3076:7604822] Master: Generating process with PID 65
+[3076:7604954] Master: P47 terminates. Clearing frames 2 1 
+[3076:7605810] Master: P55 writing 4521
+[3076:7605820] Master: Address 4521 in frame 3, P55 writing data
+[3076:7606538] Master: P62 writing 28980
+[3076:7606538] Master: Page fault on address 28980
+[3076:7606538] Master: Using free frame 1 for P62 page 28
+[3076:7606686] Master: P57 reading 2851
+[3076:7606696] Master: Address 2851 in frame 6, P57 reading data
+[3077:7607547] Master: Generating process with PID 66
+[3077:7609166] Master: P62 writing 28980
+[3077:7609176] Master: Address 28980 in frame 1, P62 writing data
+[3077:7609270] Master: P59 reading 29970
+[3077:7609270] Master: Page fault on address 29970
+[3077:7609270] Master: Using free frame 2 for P59 page 29
+[3078:7609887] Master: Generating process with PID 67
+[3078:7611384] Master: P59 reading 29970
+[3078:7611394] Master: Address 29970 in frame 2, P59 reading data
+[3079:7611823] Master: Generating process with PID 68
+[3272:8086851] Master: P60 writing 6671
+[3272:8086851] Master: Page fault on address 6671
+[3272:8086851] Master: Using free frame 10 for P60 page 6
+[3273:8089051] Master: P60 writing 6671
+[3273:8089061] Master: Address 6671 in frame 10, P60 writing data
+[3275:8092990] Master: P55 reading 3239
+[3275:8092990] Master: Page fault on address 3239
+[3275:8092990] Master: Using free frame 11 for P55 page 3
+[3276:8095073] Master: P55 reading 3239
+[3276:8095083] Master: Address 3239 in frame 11, P55 reading data
+[3276:8095885] Master: P57 reading 32594
+[3276:8095885] Master: Page fault on address 32594
+[3276:8095885] Master: Using free frame 12 for P57 page 31
+[3277:8098495] Master: P57 reading 32594
+[3277:8098505] Master: Address 32594 in frame 12, P57 reading data
+[3285:8117660] Master: P55 terminates. Clearing frames 11 3 14 0 
+[3285:8118739] Master: P56 writing 2350
+[3285:8118739] Master: Page fault on address 2350
+[3285:8118739] Master: Using free frame 0 for P56 page 2
+[3285:8118744] Master: P51 writing 4233
+[3285:8118744] Master: Page fault on address 4233
+[3285:8118744] Master: Using free frame 3 for P51 page 4
+[3285:8119137] Master: P59 reading 18168
+[3285:8119137] Master: Page fault on address 18168
+[3285:8119137] Master: Using free frame 11 for P59 page 17
+[3285:8119236] Master: P60 reading 16982
+[3285:8119236] Master: Page fault on address 16982
+[3285:8119236] Master: Using free frame 13 for P60 page 16
+[3285:8119344] Master: P61 reading 26580
+[3285:8119344] Master: Page fault on address 26580
+[3285:8119344] Master: Using free frame 14 for P61 page 25
+[3285:8119358] Master: P53 reading 17961
+[3285:8119358] Master: Page fault on address 17961
+[3285:8119358] Master: Using free frame 15 for P53 page 17
+[3285:8119358] Master: Current Frames Usage:
+         #		  Occupied		   RefByte	  DirtyBit
+Frame    0		       Yes		         1	         0
+Frame    1		       Yes		         1	         1
+Frame    2		       Yes		         1	         0
+Frame    3		       Yes		         1	         0
+Frame    4		       Yes		         1	         0
+Frame    5		       Yes		         1	         1
+Frame    6		       Yes		         1	         0
+Frame    7		       Yes		         1	         1
+Frame    8		       Yes		         1	         1
+Frame    9		       Yes		         1	         0
+Frame   10		       Yes		         1	         1
+Frame   11		       Yes		         1	         0
+Frame   12		       Yes		         1	         0
+Frame   13		       Yes		         1	         0
+Frame   14		       Yes		         1	         0
+Frame   15		       Yes		         1	         0
+Frame   16		        No		         0	         0
+Frame   17		        No		         0	         0
+Frame   18		        No		         0	         0
+Frame   19		        No		         0	         0
+Frame   20		        No		         0	         0
+Frame   21		        No		         0	         0
+Frame   22		        No		         0	         0
+Frame   23		        No		         0	         0
+Frame   24		        No		         0	         0
+Frame   25		        No		         0	         0
+Frame   26		        No		         0	         0
+Frame   27		        No		         0	         0
+Frame   28		        No		         0	         0
+Frame   29		        No		         0	         0
+Frame   30		        No		         0	         0
+Frame   31		        No		         0	         0
+Frame   32		        No		         0	         0
+Frame   33		        No		         0	         0
+Frame   34		        No		         0	         0
+Frame   35		        No		         0	         0
+Frame   36		        No		         0	         0
+Frame   37		        No		         0	         0
+Frame   38		        No		         0	         0
+Frame   39		        No		         0	         0
+Frame   40		        No		         0	         0
+Frame   41		        No		         0	         0
+Frame   42		        No		         0	         0
+Frame   43		        No		         0	         0
+Frame   44		        No		         0	         0
+Frame   45		        No		         0	         0
+Frame   46		        No		         0	         0
+Frame   47		        No		         0	         0
+Frame   48		        No		         0	         0
+Frame   49		        No		         0	         0
+Frame   50		        No		         0	         0
+Frame   51		        No		         0	         0
+Frame   52		        No		         0	         0
+Frame   53		        No		         0	         0
+Frame   54		        No		         0	         0
+Frame   55		        No		         0	         0
+Frame   56		        No		         0	         0
+Frame   57		        No		         0	         0
+Frame   58		        No		         0	         0
+Frame   59		        No		         0	         0
+Frame   60		        No		         0	         0
+Frame   61		        No		         0	         0
+Frame   62		        No		         0	         0
+Frame   63		        No		         0	         0
+Frame   64		        No		         0	         0
+Frame   65		        No		         0	         0
+Frame   66		        No		         0	         0
+Frame   67		        No		         0	         0
+Frame   68		        No		         0	         0
+Frame   69		        No		         0	         0
+Frame   70		        No		         0	         0
+Frame   71		        No		         0	         0
+Frame   72		        No		         0	         0
+Frame   73		        No		         0	         0
+Frame   74		        No		         0	         0
+Frame   75		        No		         0	         0
+Frame   76		        No		         0	         0
+Frame   77		        No		         0	         0
+Frame   78		        No		         0	         0
+Frame   79		        No		         0	         0
+Frame   80		        No		         0	         0
+Frame   81		        No		         0	         0
+Frame   82		        No		         0	         0
+Frame   83		        No		         0	         0
+Frame   84		        No		         0	         0
+Frame   85		        No		         0	         0
+Frame   86		        No		         0	         0
+Frame   87		        No		         0	         0
+Frame   88		        No		         0	         0
+Frame   89		        No		         0	         0
+Frame   90		        No		         0	         0
+Frame   91		        No		         0	         0
+Frame   92		        No		         0	         0
+Frame   93		        No		         0	         0
+Frame   94		        No		         0	         0
+Frame   95		        No		         0	         0
+Frame   96		        No		         0	         0
+Frame   97		        No		         0	         0
+Frame   98		        No		         0	         0
+Frame   99		        No		         0	         0
+Frame  100		        No		         0	         0
+Frame  101		        No		         0	         0
+Frame  102		        No		         0	         0
+Frame  103		        No		         0	         0
+Frame  104		        No		         0	         0
+Frame  105		        No		         0	         0
+Frame  106		        No		         0	         0
+Frame  107		        No		         0	         0
+Frame  108		        No		         0	         0
+Frame  109		        No		         0	         0
+Frame  110		        No		         0	         0
+Frame  111		        No		         0	         0
+Frame  112		        No		         0	         0
+Frame  113		        No		         0	         0
+Frame  114		        No		         0	         0
+Frame  115		        No		         0	         0
+Frame  116		        No		         0	         0
+Frame  117		        No		         0	         0
+Frame  118		        No		         0	         0
+Frame  119		        No		         0	         0
+Frame  120		        No		         0	         0
+Frame  121		        No		         0	         0
+Frame  122		        No		         0	         0
+Frame  123		        No		         0	         0
+Frame  124		        No		         0	         0
+Frame  125		        No		         0	         0
+Frame  126		        No		         0	         0
+Frame  127		        No		         0	         0
+Frame  128		        No		         0	         0
+Frame  129		        No		         0	         0
+Frame  130		        No		         0	         0
+Frame  131		        No		         0	         0
+Frame  132		        No		         0	         0
+Frame  133		        No		         0	         0
+Frame  134		        No		         0	         0
+Frame  135		        No		         0	         0
+Frame  136		        No		         0	         0
+Frame  137		        No		         0	         0
+Frame  138		        No		         0	         0
+Frame  139		        No		         0	         0
+Frame  140		        No		         0	         0
+Frame  141		        No		         0	         0
+Frame  142		        No		         0	         0
+Frame  143		        No		         0	         0
+Frame  144		        No		         0	         0
+Frame  145		        No		         0	         0
+Frame  146		        No		         0	         0
+Frame  147		        No		         0	         0
+Frame  148		        No		         0	         0
+Frame  149		        No		         0	         0
+Frame  150		        No		         0	         0
+Frame  151		        No		         0	         0
+Frame  152		        No		         0	         0
+Frame  153		        No		         0	         0
+Frame  154		        No		         0	         0
+Frame  155		        No		         0	         0
+Frame  156		        No		         0	         0
+Frame  157		        No		         0	         0
+Frame  158		        No		         0	         0
+Frame  159		        No		         0	         0
+Frame  160		        No		         0	         0
+Frame  161		        No		         0	         0
+Frame  162		        No		         0	         0
+Frame  163		        No		         0	         0
+Frame  164		        No		         0	         0
+Frame  165		        No		         0	         0
+Frame  166		        No		         0	         0
+Frame  167		        No		         0	         0
+Frame  168		        No		         0	         0
+Frame  169		        No		         0	         0
+Frame  170		        No		         0	         0
+Frame  171		        No		         0	         0
+Frame  172		        No		         0	         0
+Frame  173		        No		         0	         0
+Frame  174		        No		         0	         0
+Frame  175		        No		         0	         0
+Frame  176		        No		         0	         0
+Frame  177		        No		         0	         0
+Frame  178		        No		         0	         0
+Frame  179		        No		         0	         0
+Frame  180		        No		         0	         0
+Frame  181		        No		         0	         0
+Frame  182		        No		         0	         0
+Frame  183		        No		         0	         0
+Frame  184		        No		         0	         0
+Frame  185		        No		         0	         0
+Frame  186		        No		         0	         0
+Frame  187		        No		         0	         0
+Frame  188		        No		         0	         0
+Frame  189		        No		         0	         0
+Frame  190		        No		         0	         0
+Frame  191		        No		         0	         0
+Frame  192		        No		         0	         0
+Frame  193		        No		         0	         0
+Frame  194		        No		         0	         0
+Frame  195		        No		         0	         0
+Frame  196		        No		         0	         0
+Frame  197		        No		         0	         0
+Frame  198		        No		         0	         0
+Frame  199		        No		         0	         0
+Frame  200		        No		         0	         0
+Frame  201		        No		         0	         0
+Frame  202		        No		         0	         0
+Frame  203		        No		         0	         0
+Frame  204		        No		         0	         0
+Frame  205		        No		         0	         0
+Frame  206		        No		         0	         0
+Frame  207		        No		         0	         0
+Frame  208		        No		         0	         0
+Frame  209		        No		         0	         0
+Frame  210		        No		         0	         0
+Frame  211		        No		         0	         0
+Frame  212		        No		         0	         0
+Frame  213		        No		         0	         0
+Frame  214		        No		         0	         0
+Frame  215		        No		         0	         0
+Frame  216		        No		         0	         0
+Frame  217		        No		         0	         0
+Frame  218		        No		         0	         0
+Frame  219		        No		         0	         0
+Frame  220		        No		         0	         0
+Frame  221		        No		         0	         0
+Frame  222		        No		         0	         0
+Frame  223		        No		         0	         0
+Frame  224		        No		         0	         0
+Frame  225		        No		         0	         0
+Frame  226		        No		         0	         0
+Frame  227		        No		         0	         0
+Frame  228		        No		         0	         0
+Frame  229		        No		         0	         0
+Frame  230		        No		         0	         0
+Frame  231		        No		         0	         0
+Frame  232		        No		         0	         0
+Frame  233		        No		         0	         0
+Frame  234		        No		         0	         0
+Frame  235		        No		         0	         0
+Frame  236		        No		         0	         0
+Frame  237		        No		         0	         0
+Frame  238		        No		         0	         0
+Frame  239		        No		         0	         0
+Frame  240		        No		         0	         0
+Frame  241		        No		         0	         0
+Frame  242		        No		         0	         0
+Frame  243		        No		         0	         0
+Frame  244		        No		         0	         0
+Frame  245		        No		         0	         0
+Frame  246		        No		         0	         0
+Frame  247		        No		         0	         0
+Frame  248		        No		         0	         0
+Frame  249		        No		         0	         0
+Frame  250		        No		         0	         0
+Frame  251		        No		         0	         0
+Frame  252		        No		         0	         0
+Frame  253		        No		         0	         0
+Frame  254		        No		         0	         0
+Frame  255		        No		         0	         0
+
+[3286:8120186] Master: Generating process with PID 69
+[3286:8121089] Master: P57 terminates. Clearing frames 6 7 12 
+[3286:8121338] Master: P56 writing 2350
+[3286:8121348] Master: Address 2350 in frame 0, P56 writing data
+[3286:8121460] Master: P51 writing 4233
+[3286:8121470] Master: Address 4233 in frame 3, P51 writing data
+[3286:8121906] Master: P59 reading 18168
+[3286:8121916] Master: Address 18168 in frame 11, P59 reading data
+[3286:8121916] Master: P60 reading 16982
+[3286:8121926] Master: Address 16982 in frame 13, P60 reading data
+[3286:8122005] Master: P61 reading 26580
+[3286:8122015] Master: Address 26580 in frame 14, P61 reading data
+[3286:8122071] Master: P53 reading 17961
+[3286:8122081] Master: Address 17961 in frame 15, P53 reading data
+[3287:8122548] Master: Generating process with PID 70
+[3433:8486360] Master: P51 terminates. Clearing frames 3 9 
+[3433:8486696] Master: P59 terminates. Clearing frames 11 5 2 
+[3433:8486896] Master: P53 terminates. Clearing frames 15 8 
+[3433:8487000] Master: P63 reading 14018
+[3433:8487000] Master: Page fault on address 14018
+[3433:8487000] Master: Using free frame 2 for P63 page 13
+[3433:8487093] Master: P66 reading 10953
+[3433:8487093] Master: Page fault on address 10953
+[3433:8487093] Master: Using free frame 3 for P66 page 10
+[3433:8487131] Master: P56 writing 13277
+[3433:8487131] Master: Page fault on address 13277
+[3433:8487131] Master: Using free frame 5 for P56 page 12
+[3433:8487209] Master: P64 reading 1683
+[3433:8487209] Master: Page fault on address 1683
+[3433:8487209] Master: Using free frame 6 for P64 page 1
+[3433:8487410] Master: P65 reading 32329
+[3433:8487410] Master: Page fault on address 32329
+[3433:8487410] Master: Using free frame 7 for P65 page 31
+[3433:8487695] Master: P62 reading 6253
+[3433:8487695] Master: Page fault on address 6253
+[3433:8487695] Master: Using free frame 8 for P62 page 6
+[3433:8487741] Master: P60 reading 13844
+[3433:8487741] Master: Page fault on address 13844
+[3433:8487741] Master: Using free frame 9 for P60 page 13
+[3433:8487827] Master: P61 reading 12530
+[3433:8487827] Master: Page fault on address 12530
+[3433:8487827] Master: Using free frame 11 for P61 page 12
+[3433:8487949] Master: P48 reading 14106
+[3433:8487949] Master: Page fault on address 14106
+[3433:8487949] Master: Using free frame 12 for P48 page 13
+[3434:8488354] Master: Generating process with PID 71
+[3434:8489275] Master: P63 reading 14018
+[3434:8489285] Master: Address 14018 in frame 2, P63 reading data
+[3434:8489506] Master: P66 reading 10953
+[3434:8489516] Master: Address 10953 in frame 3, P66 reading data
+[3434:8489569] Master: P56 writing 13277
+[3434:8489579] Master: Address 13277 in frame 5, P56 writing data
+[3434:8489579] Master: P64 reading 1683
+[3434:8489589] Master: Address 1683 in frame 6, P64 reading data
+[3434:8489656] Master: P65 reading 32329
+[3434:8489666] Master: Address 32329 in frame 7, P65 reading data
+[3434:8489887] Master: P68 writing 1572
+[3434:8489887] Master: Page fault on address 1572
+[3434:8489887] Master: Using free frame 15 for P68 page 1
+[3434:8489954] Master: P62 reading 6253
+[3434:8489964] Master: Address 6253 in frame 8, P62 reading data
+[3434:8490069] Master: P60 reading 13844
+[3434:8490079] Master: Address 13844 in frame 9, P60 reading data
+[3434:8490187] Master: P61 reading 12530
+[3434:8490197] Master: Address 12530 in frame 11, P61 reading data
+[3434:8490220] Master: P48 reading 14106
+[3434:8490230] Master: Address 14106 in frame 12, P48 reading data
+[3435:8490627] Master: Generating process with PID 72
+[3435:8492310] Master: P68 writing 1572
+[3435:8492320] Master: Address 1572 in frame 15, P68 writing data
+[3436:8492918] Master: Generating process with PID 73
+[3436:8493668] Master: P61 terminates. Clearing frames 11 14 
+[3436:8493879] Master: P69 reading 11510
+[3436:8493879] Master: Page fault on address 11510
+[3436:8493879] Master: Using free frame 11 for P69 page 11
+[3437:8495479] Master: Generating process with PID 74
+[3437:8496484] Master: P69 reading 11510
+[3437:8496494] Master: Address 11510 in frame 11, P69 reading data
+[3437:8496649] Master: P64 reading 23357
+[3437:8496649] Master: Page fault on address 23357
+[3437:8496649] Master: Using free frame 14 for P64 page 22
+[3438:8499617] Master: P64 reading 23357
+[3438:8499627] Master: Address 23357 in frame 14, P64 reading data
+[3602:8914254] Master: P38 reading 8099
+[3602:8914254] Master: Page fault on address 8099
+[3602:8914254] Master: Using free frame 16 for P38 page 7
+[3602:8914330] Master: P52 writing 30955
+[3602:8914330] Master: Page fault on address 30955
+[3602:8914330] Master: Using free frame 17 for P52 page 30
+[3602:8914695] Master: P60 terminates. Clearing frames 10 9 13 
+[3603:8915646] Master: Generating process with PID 75
+[3603:8916970] Master: P65 writing 659
+[3603:8916970] Master: Page fault on address 659
+[3603:8916970] Master: Using free frame 9 for P65 page 0
+[3603:8916978] Master: P38 reading 8099
+[3603:8916988] Master: Address 8099 in frame 16, P38 reading data
+[3603:8917046] Master: P52 writing 30955
+[3603:8917056] Master: Address 30955 in frame 17, P52 writing data
+[3603:8917145] Master: P68 reading 22479
+[3603:8917145] Master: Page fault on address 22479
+[3603:8917145] Master: Using free frame 10 for P68 page 21
+[3604:8919310] Master: P65 writing 659
+[3604:8919320] Master: Address 659 in frame 9, P65 writing data
+[3604:8919501] Master: P68 reading 22479
+[3604:8919511] Master: Address 22479 in frame 10, P68 reading data
+[3621:8961109] Master: P52 terminates. Clearing frames 4 17 
+[3621:8961154] Master: P68 terminates. Clearing frames 15 10 
+[3621:8961176] Master: P62 terminates. Clearing frames 8 1 
+[3621:8961671] Master: P66 reading 7054
+[3621:8961671] Master: Page fault on address 7054
+[3621:8961671] Master: Using free frame 1 for P66 page 6
+[3621:8961831] Master: P71 reading 31370
+[3621:8961831] Master: Page fault on address 31370
+[3621:8961831] Master: Using free frame 4 for P71 page 30
+[3622:8962975] Master: Generating process with PID 76
+[3622:8963149] Master: P56 terminates. Clearing frames 0 5 
+[3622:8963306] Master: P65 terminates. Clearing frames 9 7 
+[3622:8963969] Master: P63 writing 6739
+[3622:8963969] Master: Page fault on address 6739
+[3622:8963969] Master: Using free frame 0 for P63 page 6
+[3622:8964007] Master: P69 reading 4869
+[3622:8964007] Master: Page fault on address 4869
+[3622:8964007] Master: Using free frame 5 for P69 page 4
+[3622:8964057] Master: P66 reading 7054
+[3622:8964067] Master: Address 7054 in frame 1, P66 reading data
+[3622:8964224] Master: P64 reading 3741
+[3622:8964224] Master: Page fault on address 3741
+[3622:8964224] Master: Using free frame 7 for P64 page 3
+[3622:8964268] Master: P71 reading 31370
+[3622:8964278] Master: Address 31370 in frame 4, P71 reading data
+[3622:8964348] Master: P38 reading 17219
+[3622:8964348] Master: Page fault on address 17219
+[3622:8964348] Master: Using free frame 8 for P38 page 16
+[3622:8964471] Master: P67 writing 31407
+[3622:8964471] Master: Page fault on address 31407
+[3622:8964471] Master: Using free frame 9 for P67 page 30
+[3623:8964963] Master: Generating process with PID 77
+[3623:8965162] Master: P66 terminates. Clearing frames 1 3 
+[3623:8966102] Master: P63 writing 6739
+[3623:8966112] Master: Address 6739 in frame 0, P63 writing data
+[3623:8966134] Master: P69 reading 4869
+[3623:8966144] Master: Address 4869 in frame 5, P69 reading data
+[3623:8966394] Master: P64 reading 3741
+[3623:8966404] Master: Address 3741 in frame 7, P64 reading data
+[3623:8966649] Master: P38 reading 17219
+[3623:8966659] Master: Address 17219 in frame 8, P38 reading data
+[3623:8966762] Master: P67 writing 31407
+[3623:8966772] Master: Address 31407 in frame 9, P67 writing data
+[3624:8967444] Master: Generating process with PID 78
+[3624:8967444] Master: P63 terminates. Clearing frames 0 2 
+[3624:8967628] Master: P64 terminates. Clearing frames 6 7 14 
+[3624:8968961] Master: P38 reading 17582
+[3624:8968961] Master: Page fault on address 17582
+[3624:8968961] Master: Using free frame 0 for P38 page 17
+[3624:8969039] Master: P67 reading 17779
+[3624:8969039] Master: Page fault on address 17779
+[3624:8969039] Master: Using free frame 1 for P67 page 17
+[3625:8969429] Master: Generating process with PID 79
+[3625:8969490] Master: P69 terminates. Clearing frames 5 11 
+[3625:8970748] Master: P38 reading 17582
+[3625:8970758] Master: Address 17582 in frame 0, P38 reading data
+[3625:8970915] Master: P67 reading 17779
+[3625:8970925] Master: Address 17779 in frame 1, P67 reading data
+[3626:8971777] Master: Generating process with PID 80
+[3626:8973559] Master: P67 reading 23900
+[3626:8973559] Master: Page fault on address 23900
+[3626:8973559] Master: Using free frame 2 for P67 page 23
+[3627:8974387] Master: Generating process with PID 81
+[3627:8975806] Master: P67 reading 23900
+[3627:8975816] Master: Address 23900 in frame 2, P67 reading data
+[3628:8976683] Master: Generating process with PID 82
+[3629:8978920] Master: Generating process with PID 83
+[3630:8981700] Master: Generating process with PID 84
+[3632:8988675] Master: P72 reading 29505
+[3632:8988675] Master: Page fault on address 29505
+[3632:8988675] Master: Using free frame 3 for P72 page 28
+[3633:8990264] Master: P38 reading 11062
+[3633:8990264] Master: Page fault on address 11062
+[3633:8990264] Master: Using free frame 5 for P38 page 10
+[3633:8990401] Master: P72 reading 29505
+[3633:8990411] Master: Address 29505 in frame 3, P72 reading data
+[3634:8992241] Master: P38 reading 11062
+[3634:8992251] Master: Address 11062 in frame 5, P38 reading data
+[3647:9022656] Master: P38 reading 27559
+[3647:9022656] Master: Page fault on address 27559
+[3647:9022656] Master: Using free frame 6 for P38 page 26
+[3647:9022745] Master: P72 reading 26592
+[3647:9022745] Master: Page fault on address 26592
+[3647:9022745] Master: Using free frame 7 for P72 page 25
+[3647:9022817] Master: P70 reading 26193
+[3647:9022817] Master: Page fault on address 26193
+[3647:9022817] Master: Using free frame 10 for P70 page 25
+[3648:9025017] Master: P38 reading 27559
+[3648:9025027] Master: Address 27559 in frame 6, P38 reading data
+[3648:9025204] Master: P72 reading 26592
+[3648:9025214] Master: Address 26592 in frame 7, P72 reading data
+[3648:9025266] Master: P70 reading 26193
+[3648:9025276] Master: Address 26193 in frame 10, P70 reading data
+[3681:9107908] Master: P67 writing 32134
+[3681:9107908] Master: Page fault on address 32134
+[3681:9107908] Master: Using free frame 11 for P67 page 31
+[3681:9108151] Master: P74 writing 28159
+[3681:9108151] Master: Page fault on address 28159
+[3681:9108151] Master: Using free frame 13 for P74 page 27
+[3681:9108250] Master: P48 reading 31846
+[3681:9108250] Master: Page fault on address 31846
+[3681:9108250] Master: Using free frame 14 for P48 page 31
+[3682:9109902] Master: P67 writing 32134
+[3682:9109912] Master: Address 32134 in frame 11, P67 writing data
+[3682:9110295] Master: P74 writing 28159
+[3682:9110305] Master: Address 28159 in frame 13, P74 writing data
+[3682:9110439] Master: P48 reading 31846
+[3682:9110449] Master: Address 31846 in frame 14, P48 reading data
+[3872:9576763] Master: P48 terminates. Clearing frames 12 14 
+[3872:9577501] Master: P73 writing 28700
+[3872:9577501] Master: Page fault on address 28700
+[3872:9577501] Master: Using free frame 12 for P73 page 28
+[3873:9578391] Master: Generating process with PID 85
+[3873:9579584] Master: P78 reading 24837
+[3873:9579584] Master: Page fault on address 24837
+[3873:9579584] Master: Using free frame 14 for P78 page 24
+[3873:9580004] Master: P38 reading 15622
+[3873:9580004] Master: Page fault on address 15622
+[3873:9580004] Master: Using free frame 15 for P38 page 15
+[3873:9580186] Master: P72 writing 29415
+[3873:9580196] Master: Address 29415 in frame 3, P72 writing data
+[3873:9580269] Master: P73 writing 28700
+[3873:9580279] Master: Address 28700 in frame 12, P73 writing data
+[3874:9582053] Master: P78 reading 24837
+[3874:9582063] Master: Address 24837 in frame 14, P78 reading data
+[3874:9582201] Master: P38 reading 15622
+[3874:9582211] Master: Address 15622 in frame 15, P38 reading data
+[3880:9596832] Master: P38 terminates. Clearing frames 16 5 15 8 0 6 
+[3880:9596999] Master: P72 terminates. Clearing frames 7 3 
+[3880:9597533] Master: P77 reading 21762
+[3880:9597533] Master: Page fault on address 21762
+[3880:9597533] Master: Using free frame 0 for P77 page 21
+[3880:9597546] Master: P81 reading 20095
+[3880:9597546] Master: Page fault on address 20095
+[3880:9597546] Master: Using free frame 3 for P81 page 19
+[3880:9597617] Master: P71 reading 31641
+[3880:9597627] Master: Address 31641 in frame 4, P71 reading data
+[3880:9597798] Master: P76 writing 18171
+[3880:9597798] Master: Page fault on address 18171
+[3880:9597798] Master: Using free frame 5 for P76 page 17
+[3880:9597868] Master: P67 reading 25396
+[3880:9597868] Master: Page fault on address 25396
+[3880:9597868] Master: Using free frame 6 for P67 page 24
+[3880:9598095] Master: P70 reading 11612
+[3880:9598095] Master: Page fault on address 11612
+[3880:9598095] Master: Using free frame 7 for P70 page 11
+[3880:9598098] Master: P74 writing 19037
+[3880:9598098] Master: Page fault on address 19037
+[3880:9598098] Master: Using free frame 8 for P74 page 18
+[3880:9598196] Master: P73 reading 13404
+[3880:9598196] Master: Page fault on address 13404
+[3880:9598196] Master: Using free frame 15 for P73 page 13
+[3881:9599097] Master: Generating process with PID 86
+[3881:9600265] Master: P54 reading 10255
+[3881:9600265] Master: Page fault on address 10255
+[3881:9600265] Master: Using free frame 16 for P54 page 10
+[3881:9600408] Master: P77 reading 21762
+[3881:9600418] Master: Address 21762 in frame 0, P77 reading data
+[3881:9600495] Master: P81 reading 20095
+[3881:9600505] Master: Address 20095 in frame 3, P81 reading data
+[3881:9600797] Master: P76 writing 18171
+[3881:9600807] Master: Address 18171 in frame 5, P76 writing data
+[3881:9600875] Master: P67 reading 25396
+[3881:9600885] Master: Address 25396 in frame 6, P67 reading data
+[3881:9601201] Master: P70 reading 11612
+[3881:9601211] Master: Address 11612 in frame 7, P70 reading data
+[3881:9601278] Master: P74 writing 19037
+[3881:9601288] Master: Address 19037 in frame 8, P74 writing data
+[3881:9601290] Master: P73 reading 13404
+[3881:9601300] Master: Address 13404 in frame 15, P73 reading data
+[3882:9602057] Master: Generating process with PID 87
+[3882:9602706] Master: P67 terminates. Clearing frames 1 2 6 9 11 
+[3882:9603019] Master: P54 reading 10255
+[3882:9603029] Master: Address 10255 in frame 16, P54 reading data
+[3882:9603479] Master: P76 writing 7866
+[3882:9603479] Master: Page fault on address 7866
+[3882:9603479] Master: Using free frame 1 for P76 page 7
+[3882:9603662] Master: P83 reading 5601
+[3882:9603662] Master: Page fault on address 5601
+[3882:9603662] Master: Using free frame 2 for P83 page 5
+[3882:9603662] Master: Current Frames Usage:
+         #		  Occupied		   RefByte	  DirtyBit
+Frame    0		       Yes		         1	         0
+Frame    1		       Yes		         1	         0
+Frame    2		       Yes		         1	         0
+Frame    3		       Yes		         1	         0
+Frame    4		       Yes		         1	         0
+Frame    5		       Yes		         1	         1
+Frame    6		        No		         0	         0
+Frame    7		       Yes		         1	         0
+Frame    8		       Yes		         1	         1
+Frame    9		        No		         0	         0
+Frame   10		       Yes		         1	         0
+Frame   11		        No		         0	         0
+Frame   12		       Yes		         1	         1
+Frame   13		       Yes		         1	         1
+Frame   14		       Yes		         1	         0
+Frame   15		       Yes		         1	         0
+Frame   16		       Yes		         1	         0
+Frame   17		        No		         0	         0
+Frame   18		        No		         0	         0
+Frame   19		        No		         0	         0
+Frame   20		        No		         0	         0
+Frame   21		        No		         0	         0
+Frame   22		        No		         0	         0
+Frame   23		        No		         0	         0
+Frame   24		        No		         0	         0
+Frame   25		        No		         0	         0
+Frame   26		        No		         0	         0
+Frame   27		        No		         0	         0
+Frame   28		        No		         0	         0
+Frame   29		        No		         0	         0
+Frame   30		        No		         0	         0
+Frame   31		        No		         0	         0
+Frame   32		        No		         0	         0
+Frame   33		        No		         0	         0
+Frame   34		        No		         0	         0
+Frame   35		        No		         0	         0
+Frame   36		        No		         0	         0
+Frame   37		        No		         0	         0
+Frame   38		        No		         0	         0
+Frame   39		        No		         0	         0
+Frame   40		        No		         0	         0
+Frame   41		        No		         0	         0
+Frame   42		        No		         0	         0
+Frame   43		        No		         0	         0
+Frame   44		        No		         0	         0
+Frame   45		        No		         0	         0
+Frame   46		        No		         0	         0
+Frame   47		        No		         0	         0
+Frame   48		        No		         0	         0
+Frame   49		        No		         0	         0
+Frame   50		        No		         0	         0
+Frame   51		        No		         0	         0
+Frame   52		        No		         0	         0
+Frame   53		        No		         0	         0
+Frame   54		        No		         0	         0
+Frame   55		        No		         0	         0
+Frame   56		        No		         0	         0
+Frame   57		        No		         0	         0
+Frame   58		        No		         0	         0
+Frame   59		        No		         0	         0
+Frame   60		        No		         0	         0
+Frame   61		        No		         0	         0
+Frame   62		        No		         0	         0
+Frame   63		        No		         0	         0
+Frame   64		        No		         0	         0
+Frame   65		        No		         0	         0
+Frame   66		        No		         0	         0
+Frame   67		        No		         0	         0
+Frame   68		        No		         0	         0
+Frame   69		        No		         0	         0
+Frame   70		        No		         0	         0
+Frame   71		        No		         0	         0
+Frame   72		        No		         0	         0
+Frame   73		        No		         0	         0
+Frame   74		        No		         0	         0
+Frame   75		        No		         0	         0
+Frame   76		        No		         0	         0
+Frame   77		        No		         0	         0
+Frame   78		        No		         0	         0
+Frame   79		        No		         0	         0
+Frame   80		        No		         0	         0
+Frame   81		        No		         0	         0
+Frame   82		        No		         0	         0
+Frame   83		        No		         0	         0
+Frame   84		        No		         0	         0
+Frame   85		        No		         0	         0
+Frame   86		        No		         0	         0
+Frame   87		        No		         0	         0
+Frame   88		        No		         0	         0
+Frame   89		        No		         0	         0
+Frame   90		        No		         0	         0
+Frame   91		        No		         0	         0
+Frame   92		        No		         0	         0
+Frame   93		        No		         0	         0
+Frame   94		        No		         0	         0
+Frame   95		        No		         0	         0
+Frame   96		        No		         0	         0
+Frame   97		        No		         0	         0
+Frame   98		        No		         0	         0
+Frame   99		        No		         0	         0
+Frame  100		        No		         0	         0
+Frame  101		        No		         0	         0
+Frame  102		        No		         0	         0
+Frame  103		        No		         0	         0
+Frame  104		        No		         0	         0
+Frame  105		        No		         0	         0
+Frame  106		        No		         0	         0
+Frame  107		        No		         0	         0
+Frame  108		        No		         0	         0
+Frame  109		        No		         0	         0
+Frame  110		        No		         0	         0
+Frame  111		        No		         0	         0
+Frame  112		        No		         0	         0
+Frame  113		        No		         0	         0
+Frame  114		        No		         0	         0
+Frame  115		        No		         0	         0
+Frame  116		        No		         0	         0
+Frame  117		        No		         0	         0
+Frame  118		        No		         0	         0
+Frame  119		        No		         0	         0
+Frame  120		        No		         0	         0
+Frame  121		        No		         0	         0
+Frame  122		        No		         0	         0
+Frame  123		        No		         0	         0
+Frame  124		        No		         0	         0
+Frame  125		        No		         0	         0
+Frame  126		        No		         0	         0
+Frame  127		        No		         0	         0
+Frame  128		        No		         0	         0
+Frame  129		        No		         0	         0
+Frame  130		        No		         0	         0
+Frame  131		        No		         0	         0
+Frame  132		        No		         0	         0
+Frame  133		        No		         0	         0
+Frame  134		        No		         0	         0
+Frame  135		        No		         0	         0
+Frame  136		        No		         0	         0
+Frame  137		        No		         0	         0
+Frame  138		        No		         0	         0
+Frame  139		        No		         0	         0
+Frame  140		        No		         0	         0
+Frame  141		        No		         0	         0
+Frame  142		        No		         0	         0
+Frame  143		        No		         0	         0
+Frame  144		        No		         0	         0
+Frame  145		        No		         0	         0
+Frame  146		        No		         0	         0
+Frame  147		        No		         0	         0
+Frame  148		        No		         0	         0
+Frame  149		        No		         0	         0
+Frame  150		        No		         0	         0
+Frame  151		        No		         0	         0
+Frame  152		        No		         0	         0
+Frame  153		        No		         0	         0
+Frame  154		        No		         0	         0
+Frame  155		        No		         0	         0
+Frame  156		        No		         0	         0
+Frame  157		        No		         0	         0
+Frame  158		        No		         0	         0
+Frame  159		        No		         0	         0
+Frame  160		        No		         0	         0
+Frame  161		        No		         0	         0
+Frame  162		        No		         0	         0
+Frame  163		        No		         0	         0
+Frame  164		        No		         0	         0
+Frame  165		        No		         0	         0
+Frame  166		        No		         0	         0
+Frame  167		        No		         0	         0
+Frame  168		        No		         0	         0
+Frame  169		        No		         0	         0
+Frame  170		        No		         0	         0
+Frame  171		        No		         0	         0
+Frame  172		        No		         0	         0
+Frame  173		        No		         0	         0
+Frame  174		        No		         0	         0
+Frame  175		        No		         0	         0
+Frame  176		        No		         0	         0
+Frame  177		        No		         0	         0
+Frame  178		        No		         0	         0
+Frame  179		        No		         0	         0
+Frame  180		        No		         0	         0
+Frame  181		        No		         0	         0
+Frame  182		        No		         0	         0
+Frame  183		        No		         0	         0
+Frame  184		        No		         0	         0
+Frame  185		        No		         0	         0
+Frame  186		        No		         0	         0
+Frame  187		        No		         0	         0
+Frame  188		        No		         0	         0
+Frame  189		        No		         0	         0
+Frame  190		        No		         0	         0
+Frame  191		        No		         0	         0
+Frame  192		        No		         0	         0
+Frame  193		        No		         0	         0
+Frame  194		        No		         0	         0
+Frame  195		        No		         0	         0
+Frame  196		        No		         0	         0
+Frame  197		        No		         0	         0
+Frame  198		        No		         0	         0
+Frame  199		        No		         0	         0
+Frame  200		        No		         0	         0
+Frame  201		        No		         0	         0
+Frame  202		        No		         0	         0
+Frame  203		        No		         0	         0
+Frame  204		        No		         0	         0
+Frame  205		        No		         0	         0
+Frame  206		        No		         0	         0
+Frame  207		        No		         0	         0
+Frame  208		        No		         0	         0
+Frame  209		        No		         0	         0
+Frame  210		        No		         0	         0
+Frame  211		        No		         0	         0
+Frame  212		        No		         0	         0
+Frame  213		        No		         0	         0
+Frame  214		        No		         0	         0
+Frame  215		        No		         0	         0
+Frame  216		        No		         0	         0
+Frame  217		        No		         0	         0
+Frame  218		        No		         0	         0
+Frame  219		        No		         0	         0
+Frame  220		        No		         0	         0
+Frame  221		        No		         0	         0
+Frame  222		        No		         0	         0
+Frame  223		        No		         0	         0
+Frame  224		        No		         0	         0
+Frame  225		        No		         0	         0
+Frame  226		        No		         0	         0
+Frame  227		        No		         0	         0
+Frame  228		        No		         0	         0
+Frame  229		        No		         0	         0
+Frame  230		        No		         0	         0
+Frame  231		        No		         0	         0
+Frame  232		        No		         0	         0
+Frame  233		        No		         0	         0
+Frame  234		        No		         0	         0
+Frame  235		        No		         0	         0
+Frame  236		        No		         0	         0
+Frame  237		        No		         0	         0
+Frame  238		        No		         0	         0
+Frame  239		        No		         0	         0
+Frame  240		        No		         0	         0
+Frame  241		        No		         0	         0
+Frame  242		        No		         0	         0
+Frame  243		        No		         0	         0
+Frame  244		        No		         0	         0
+Frame  245		        No		         0	         0
+Frame  246		        No		         0	         0
+Frame  247		        No		         0	         0
+Frame  248		        No		         0	         0
+Frame  249		        No		         0	         0
+Frame  250		        No		         0	         0
+Frame  251		        No		         0	         0
+Frame  252		        No		         0	         0
+Frame  253		        No		         0	         0
+Frame  254		        No		         0	         0
+Frame  255		        No		         0	         0
+
+[3882:9603907] Master: P74 terminates. Clearing frames 8 13 
+[3883:9604033] Master: Generating process with PID 88
+[3883:9605237] Master: P76 writing 7866
+[3883:9605247] Master: Address 7866 in frame 1, P76 writing data
+[3883:9605370] Master: P83 reading 5601
+[3883:9605380] Master: Address 5601 in frame 2, P83 reading data
+[3884:9605906] Master: Generating process with PID 89
+[3886:9612313] Master: P81 reading 11792
+[3886:9612313] Master: Page fault on address 11792
+[3886:9612313] Master: Using free frame 6 for P81 page 11
+[3886:9612502] Master: P82 reading 30387
+[3886:9612502] Master: Page fault on address 30387
+[3886:9612502] Master: Using free frame 8 for P82 page 29
+[3886:9613077] Master: P73 reading 21958
+[3886:9613077] Master: Page fault on address 21958
+[3886:9613077] Master: Using free frame 9 for P73 page 21
+[3887:9614561] Master: P77 reading 6332
+[3887:9614561] Master: Page fault on address 6332
+[3887:9614561] Master: Using free frame 11 for P77 page 6
+[3887:9614608] Master: P81 reading 11792
+[3887:9614618] Master: Address 11792 in frame 6, P81 reading data
+[3887:9614725] Master: P82 reading 30387
+[3887:9614735] Master: Address 30387 in frame 8, P82 reading data
+[3887:9615051] Master: P70 terminates. Clearing frames 7 10 
+[3887:9615072] Master: P73 reading 21958
+[3887:9615082] Master: Address 21958 in frame 9, P73 reading data
+[3888:9615516] Master: Generating process with PID 90
+[3888:9615865] Master: P71 terminates. Clearing frames 4 
+[3888:9616921] Master: P77 reading 6332
+[3888:9616931] Master: Address 6332 in frame 11, P77 reading data
+[3889:9618499] Master: Generating process with PID 91
+[3889:9619835] Master: P80 writing 30938
+[3889:9619835] Master: Page fault on address 30938
+[3889:9619835] Master: Using free frame 4 for P80 page 30
+[3889:9619915] Master: P54 reading 7121
+[3889:9619915] Master: Page fault on address 7121
+[3889:9619915] Master: Using free frame 7 for P54 page 6
+[3889:9619971] Master: P78 writing 26596
+[3889:9619971] Master: Page fault on address 26596
+[3889:9619971] Master: Using free frame 10 for P78 page 25
+[3889:9620039] Master: P77 reading 24990
+[3889:9620039] Master: Page fault on address 24990
+[3889:9620039] Master: Using free frame 13 for P77 page 24
+[3889:9620154] Master: P82 reading 16976
+[3889:9620154] Master: Page fault on address 16976
+[3889:9620154] Master: Using free frame 17 for P82 page 16
+[3889:9620570] Master: P73 writing 18619
+[3889:9620570] Master: Page fault on address 18619
+[3889:9620570] Master: Using free frame 18 for P73 page 18
+[3890:9622065] Master: P80 writing 30938
+[3890:9622075] Master: Address 30938 in frame 4, P80 writing data
+[3890:9622147] Master: P54 reading 7121
+[3890:9622157] Master: Address 7121 in frame 7, P54 reading data
+[3890:9622227] Master: P78 writing 26596
+[3890:9622237] Master: Address 26596 in frame 10, P78 writing data
+[3890:9622307] Master: P77 reading 24990
+[3890:9622317] Master: Address 24990 in frame 13, P77 reading data
+[3890:9622547] Master: P82 reading 16976
+[3890:9622557] Master: Address 16976 in frame 17, P82 reading data
+[3890:9622962] Master: P73 writing 18619
+[3890:9622972] Master: Address 18619 in frame 18, P73 writing data
+[3935:9729644] Master: P80 writing 15661
+[3935:9729644] Master: Page fault on address 15661
+[3935:9729644] Master: Using free frame 19 for P80 page 15
+[3936:9731790] Master: P80 writing 15661
+[3936:9731800] Master: Address 15661 in frame 19, P80 writing data
+[3936:9731889] Master: P78 writing 2170
+[3936:9731889] Master: Page fault on address 2170
+[3936:9731889] Master: Using free frame 20 for P78 page 2
+[3937:9734143] Master: P54 writing 15814
+[3937:9734143] Master: Page fault on address 15814
+[3937:9734143] Master: Using free frame 21 for P54 page 15
+[3937:9734179] Master: P78 writing 2170
+[3937:9734189] Master: Address 2170 in frame 20, P78 writing data
+[3937:9735007] Master: P73 reading 27610
+[3937:9735007] Master: Page fault on address 27610
+[3937:9735007] Master: Using free frame 22 for P73 page 26
+[3938:9736954] Master: P54 writing 15814
+[3938:9736964] Master: Address 15814 in frame 21, P54 writing data
+[3938:9736992] Master: P77 reading 30166
+[3938:9736992] Master: Page fault on address 30166
+[3938:9736992] Master: Using free frame 23 for P77 page 29
+[3938:9737514] Master: P73 reading 27610
+[3938:9737524] Master: Address 27610 in frame 22, P73 reading data
+[3939:9739195] Master: P77 reading 30166
+[3939:9739205] Master: Address 30166 in frame 23, P77 reading data
+[3939:9739413] Master: P82 writing 15771
+[3939:9739413] Master: Page fault on address 15771
+[3939:9739413] Master: Using free frame 24 for P82 page 15
+[3940:9741947] Master: P82 writing 15771
+[3940:9741957] Master: Address 15771 in frame 24, P82 writing data
+[3986:9855018] Master: P80 writing 1053
+[3986:9855018] Master: Page fault on address 1053
+[3986:9855018] Master: Using free frame 25 for P80 page 1
+[3987:9857855] Master: P80 writing 1053
+[3987:9857865] Master: Address 1053 in frame 25, P80 writing data
+[3987:9857948] Master: P78 reading 31439
+[3987:9857948] Master: Page fault on address 31439
+[3987:9857948] Master: Using free frame 26 for P78 page 30
+[3988:9860492] Master: P78 reading 31439
+[3988:9860502] Master: Address 31439 in frame 26, P78 reading data
+[3989:9862984] Master: P54 reading 151
+[3989:9862984] Master: Page fault on address 151
+[3989:9862984] Master: Using free frame 27 for P54 page 0
+[3990:9865613] Master: P54 reading 151
+[3990:9865623] Master: Address 151 in frame 27, P54 reading data
+[4037:9980280] Master: P79 reading 21628
+[4037:9980280] Master: Page fault on address 21628
+[4037:9980280] Master: Using free frame 28 for P79 page 21
+[4037:9980653] Master: P81 reading 25293
+[4037:9980653] Master: Page fault on address 25293
+[4037:9980653] Master: Using free frame 29 for P81 page 24
+[4038:9982768] Master: P79 reading 21628
+[4038:9982778] Master: Address 21628 in frame 28, P79 reading data
+[4038:9982976] Master: P81 reading 25293
+[4038:9982986] Master: Address 25293 in frame 29, P81 reading data
+[4038:9983319] Master: P76 reading 6276
+[4038:9983319] Master: Page fault on address 6276
+[4038:9983319] Master: Using free frame 30 for P76 page 6
+[4039:9985750] Master: P76 reading 6276
+[4039:9985760] Master: Address 6276 in frame 30, P76 reading data
+[4040:9988402] Master: P83 reading 27877
+[4040:9988402] Master: Page fault on address 27877
+[4040:9988402] Master: Using free frame 31 for P83 page 27
+[4041:9991228] Master: P83 reading 27877
+[4041:9991238] Master: Address 27877 in frame 31, P83 reading data
+[4333:10715201] Master: P78 terminates. Clearing frames 20 14 10 26 
+[4333:10715241] Master: P81 terminates. Clearing frames 6 3 29 
+[4333:10716040] Master: P80 writing 3577
+[4333:10716040] Master: Page fault on address 3577
+[4333:10716040] Master: Using free frame 3 for P80 page 3
+[4333:10716144] Master: P77 reading 20917
+[4333:10716144] Master: Page fault on address 20917
+[4333:10716144] Master: Using free frame 6 for P77 page 20
+[4333:10716343] Master: P82 reading 26072
+[4333:10716343] Master: Page fault on address 26072
+[4333:10716343] Master: Using free frame 10 for P82 page 25
+[4333:10716842] Master: P90 writing 32020
+[4333:10716842] Master: Page fault on address 32020
+[4333:10716842] Master: Using free frame 14 for P90 page 31
+[4333:10716958] Master: P73 writing 30720
+[4333:10716958] Master: Page fault on address 30720
+[4333:10716958] Master: Using free frame 20 for P73 page 30
+[4333:10717048] Master: P85 reading 29043
+[4333:10717048] Master: Page fault on address 29043
+[4333:10717048] Master: Using free frame 26 for P85 page 28
+[4334:10718030] Master: Generating process with PID 92
+[4334:10718154] Master: P54 terminates. Clearing frames 27 7 16 21 
+[4334:10719262] Master: P80 writing 3577
+[4334:10719272] Master: Address 3577 in frame 3, P80 writing data
+[4334:10719502] Master: P77 reading 20917
+[4334:10719512] Master: Address 20917 in frame 6, P77 reading data
+[4334:10719747] Master: P82 reading 26072
+[4334:10719757] Master: Address 26072 in frame 10, P82 reading data
+[4334:10720094] Master: P90 writing 32020
+[4334:10720104] Master: Address 32020 in frame 14, P90 writing data
+[4334:10720163] Master: P73 writing 30720
+[4334:10720173] Master: Address 30720 in frame 20, P73 writing data
+[4334:10720214] Master: P85 reading 29043
+[4334:10720224] Master: Address 29043 in frame 26, P85 reading data
+[4335:10721020] Master: Generating process with PID 93
+[4335:10721098] Master: P80 terminates. Clearing frames 25 3 19 4 
+[4335:10721575] Master: P76 terminates. Clearing frames 30 1 5 
+[4335:10721943] Master: P79 reading 19281
+[4335:10721943] Master: Page fault on address 19281
+[4335:10721943] Master: Using free frame 1 for P79 page 18
+[4335:10722644] Master: P87 writing 25452
+[4335:10722644] Master: Page fault on address 25452
+[4335:10722644] Master: Using free frame 3 for P87 page 24
+[4335:10722730] Master: P90 reading 2396
+[4335:10722730] Master: Page fault on address 2396
+[4335:10722730] Master: Using free frame 4 for P90 page 2
+[4336:10723892] Master: Generating process with PID 94
+[4336:10724235] Master: P83 terminates. Clearing frames 2 31 
+[4336:10724682] Master: P79 reading 19281
+[4336:10724692] Master: Address 19281 in frame 1, P79 reading data
+[4336:10725283] Master: P87 writing 25452
+[4336:10725293] Master: Address 25452 in frame 3, P87 writing data
+[4336:10725421] Master: P90 reading 2396
+[4336:10725431] Master: Address 2396 in frame 4, P90 reading data
+[4337:10725673] Master: Generating process with PID 95
+[4337:10725673] Master: P79 terminates. Clearing frames 1 28 
+[4338:10728177] Master: Generating process with PID 96
+[4339:10730592] Master: Generating process with PID 97
+[4340:10733218] Master: Generating process with PID 98
+[4340:10734099] Master: P73 terminates. Clearing frames 15 18 9 22 12 20 
+[4340:10734731] Master: P86 reading 19807
+[4340:10734731] Master: Page fault on address 19807
+[4340:10734731] Master: Using free frame 1 for P86 page 19
+[4341:10735408] Master: Generating process with PID 99
+[4341:10735624] Master: P77 terminates. Clearing frames 11 6 0 13 23 
+[4341:10736809] Master: P86 reading 19807
+[4341:10736819] Master: Address 19807 in frame 1, P86 reading data
+[4351:10760800] Master: P82 terminates. Clearing frames 24 17 10 8 
+[4390:10860785] Master: P85 reading 6718
+[4390:10860785] Master: Page fault on address 6718
+[4390:10860785] Master: Using free frame 0 for P85 page 6
+[4391:10863673] Master: P85 reading 6718
+[4391:10863683] Master: Address 6718 in frame 0, P85 reading data
+[4392:10865637] Master: P86 reading 505
+[4392:10865637] Master: Page fault on address 505
+[4392:10865637] Master: Using free frame 2 for P86 page 0
+[4393:10867940] Master: P86 reading 505
+[4393:10867950] Master: Address 505 in frame 2, P86 reading data
+[4455:11026280] Master: P91 reading 27665
+[4455:11026280] Master: Page fault on address 27665
+[4455:11026280] Master: Using free frame 5 for P91 page 27
+[4455:11026819] Master: P90 reading 3767
+[4455:11026819] Master: Page fault on address 3767
+[4455:11026819] Master: Using free frame 6 for P90 page 3
+[4456:11028969] Master: P91 reading 27665
+[4456:11028979] Master: Address 27665 in frame 5, P91 reading data
+[4456:11029519] Master: P90 reading 3767
+[4456:11029529] Master: Address 3767 in frame 6, P90 reading data
+[4469:11059654] Master: P90 terminates. Clearing frames 4 6 14 
+[4508:11155560] Master: P91 reading 31684
+[4508:11155560] Master: Page fault on address 31684
+[4508:11155560] Master: Using free frame 4 for P91 page 30
+[4508:11155927] Master: P88 reading 13894
+[4508:11155927] Master: Page fault on address 13894
+[4508:11155927] Master: Using free frame 6 for P88 page 13
+[4508:11155985] Master: P87 reading 24309
+[4508:11155985] Master: Page fault on address 24309
+[4508:11155985] Master: Using free frame 7 for P87 page 23
+[4509:11157743] Master: P91 reading 31684
+[4509:11157753] Master: Address 31684 in frame 4, P91 reading data
+[4509:11158047] Master: P88 reading 13894
+[4509:11158057] Master: Address 13894 in frame 6, P88 reading data
+[4509:11158201] Master: P87 reading 24309
+[4509:11158211] Master: Address 24309 in frame 7, P87 reading data
+[4516:11175483] Master: P88 reading 21046
+[4516:11175483] Master: Page fault on address 21046
+[4516:11175483] Master: Using free frame 8 for P88 page 20
+[4517:11178304] Master: P88 reading 21046
+[4517:11178314] Master: Address 21046 in frame 8, P88 reading data
+[4518:11179731] Master: P87 terminates. Clearing frames 7 3 
+[4530:11208459] Master: P91 reading 8905
+[4530:11208459] Master: Page fault on address 8905
+[4530:11208459] Master: Using free frame 3 for P91 page 8
+[4531:11210941] Master: P91 reading 8905
+[4531:11210951] Master: Address 8905 in frame 3, P91 reading data
+[4593:11368619] Master: P88 reading 5210
+[4593:11368619] Master: Page fault on address 5210
+[4593:11368619] Master: Using free frame 7 for P88 page 5
+[4594:11370553] Master: P88 reading 5210
+[4594:11370563] Master: Address 5210 in frame 7, P88 reading data
+[4702:11630207] Master: P86 writing 29072
+[4702:11630207] Master: Page fault on address 29072
+[4702:11630207] Master: Using free frame 9 for P86 page 28
+[4702:11630412] Master: P98 reading 14750
+[4702:11630412] Master: Page fault on address 14750
+[4702:11630412] Master: Using free frame 10 for P98 page 14
+[4702:11630761] Master: P85 reading 5766
+[4702:11630761] Master: Page fault on address 5766
+[4702:11630761] Master: Using free frame 11 for P85 page 5
+[4703:11632438] Master: P86 writing 29072
+[4703:11632448] Master: Address 29072 in frame 9, P86 writing data
+[4703:11632648] Master: P98 reading 14750
+[4703:11632658] Master: Address 14750 in frame 10, P98 reading data
+[4703:11632927] Master: P85 reading 5766
+[4703:11632937] Master: Address 5766 in frame 11, P85 reading data
+[4955:12259706] Master: P94 writing 4209
+[4955:12259706] Master: Page fault on address 4209
+[4955:12259706] Master: Using free frame 12 for P94 page 4
+[4955:12260016] Master: P91 reading 6880
+[4955:12260016] Master: Page fault on address 6880
+[4955:12260016] Master: Using free frame 13 for P91 page 6
+[4955:12260283] Master: P88 reading 27101
+[4955:12260283] Master: Page fault on address 27101
+[4955:12260283] Master: Using free frame 14 for P88 page 26
+[4955:12260680] Master: P99 writing 8350
+[4955:12260680] Master: Page fault on address 8350
+[4955:12260680] Master: Using free frame 15 for P99 page 8
+[4956:12262063] Master: P94 writing 4209
+[4956:12262073] Master: Address 4209 in frame 12, P94 writing data
+[4956:12262351] Master: P91 reading 6880
+[4956:12262361] Master: Address 6880 in frame 13, P91 reading data
+[4956:12262361] Master: Current Frames Usage:
+         #		  Occupied		   RefByte	  DirtyBit
+Frame    0		       Yes		         1	         0
+Frame    1		       Yes		         1	         0
+Frame    2		        No		         0	         0
+Frame    3		       Yes		         1	         0
+Frame    4		       Yes		         1	         0
+Frame    5		       Yes		         1	         0
+Frame    6		       Yes		         1	         0
+Frame    7		       Yes		         1	         0
+Frame    8		       Yes		         1	         0
+Frame    9		       Yes		         1	         1
+Frame   10		       Yes		         1	         0
+Frame   11		       Yes		         1	         0
+Frame   12		       Yes		         1	         1
+Frame   13		       Yes		         1	         0
+Frame   14		       Yes		         1	         0
+Frame   15		       Yes		         1	         0
+Frame   16		        No		         0	         0
+Frame   17		        No		         0	         0
+Frame   18		        No		         0	         0
+Frame   19		        No		         0	         0
+Frame   20		        No		         0	         0
+Frame   21		        No		         0	         0
+Frame   22		        No		         0	         0
+Frame   23		        No		         0	         0
+Frame   24		        No		         0	         0
+Frame   25		        No		         0	         0
+Frame   26		       Yes		         1	         0
+Frame   27		        No		         0	         0
+Frame   28		        No		         0	         0
+Frame   29		        No		         0	         0
+Frame   30		        No		         0	         0
+Frame   31		        No		         0	         0
+Frame   32		        No		         0	         0
+Frame   33		        No		         0	         0
+Frame   34		        No		         0	         0
+Frame   35		        No		         0	         0
+Frame   36		        No		         0	         0
+Frame   37		        No		         0	         0
+Frame   38		        No		         0	         0
+Frame   39		        No		         0	         0
+Frame   40		        No		         0	         0
+Frame   41		        No		         0	         0
+Frame   42		        No		         0	         0
+Frame   43		        No		         0	         0
+Frame   44		        No		         0	         0
+Frame   45		        No		         0	         0
+Frame   46		        No		         0	         0
+Frame   47		        No		         0	         0
+Frame   48		        No		         0	         0
+Frame   49		        No		         0	         0
+Frame   50		        No		         0	         0
+Frame   51		        No		         0	         0
+Frame   52		        No		         0	         0
+Frame   53		        No		         0	         0
+Frame   54		        No		         0	         0
+Frame   55		        No		         0	         0
+Frame   56		        No		         0	         0
+Frame   57		        No		         0	         0
+Frame   58		        No		         0	         0
+Frame   59		        No		         0	         0
+Frame   60		        No		         0	         0
+Frame   61		        No		         0	         0
+Frame   62		        No		         0	         0
+Frame   63		        No		         0	         0
+Frame   64		        No		         0	         0
+Frame   65		        No		         0	         0
+Frame   66		        No		         0	         0
+Frame   67		        No		         0	         0
+Frame   68		        No		         0	         0
+Frame   69		        No		         0	         0
+Frame   70		        No		         0	         0
+Frame   71		        No		         0	         0
+Frame   72		        No		         0	         0
+Frame   73		        No		         0	         0
+Frame   74		        No		         0	         0
+Frame   75		        No		         0	         0
+Frame   76		        No		         0	         0
+Frame   77		        No		         0	         0
+Frame   78		        No		         0	         0
+Frame   79		        No		         0	         0
+Frame   80		        No		         0	         0
+Frame   81		        No		         0	         0
+Frame   82		        No		         0	         0
+Frame   83		        No		         0	         0
+Frame   84		        No		         0	         0
+Frame   85		        No		         0	         0
+Frame   86		        No		         0	         0
+Frame   87		        No		         0	         0
+Frame   88		        No		         0	         0
+Frame   89		        No		         0	         0
+Frame   90		        No		         0	         0
+Frame   91		        No		         0	         0
+Frame   92		        No		         0	         0
+Frame   93		        No		         0	         0
+Frame   94		        No		         0	         0
+Frame   95		        No		         0	         0
+Frame   96		        No		         0	         0
+Frame   97		        No		         0	         0
+Frame   98		        No		         0	         0
+Frame   99		        No		         0	         0
+Frame  100		        No		         0	         0
+Frame  101		        No		         0	         0
+Frame  102		        No		         0	         0
+Frame  103		        No		         0	         0
+Frame  104		        No		         0	         0
+Frame  105		        No		         0	         0
+Frame  106		        No		         0	         0
+Frame  107		        No		         0	         0
+Frame  108		        No		         0	         0
+Frame  109		        No		         0	         0
+Frame  110		        No		         0	         0
+Frame  111		        No		         0	         0
+Frame  112		        No		         0	         0
+Frame  113		        No		         0	         0
+Frame  114		        No		         0	         0
+Frame  115		        No		         0	         0
+Frame  116		        No		         0	         0
+Frame  117		        No		         0	         0
+Frame  118		        No		         0	         0
+Frame  119		        No		         0	         0
+Frame  120		        No		         0	         0
+Frame  121		        No		         0	         0
+Frame  122		        No		         0	         0
+Frame  123		        No		         0	         0
+Frame  124		        No		         0	         0
+Frame  125		        No		         0	         0
+Frame  126		        No		         0	         0
+Frame  127		        No		         0	         0
+Frame  128		        No		         0	         0
+Frame  129		        No		         0	         0
+Frame  130		        No		         0	         0
+Frame  131		        No		         0	         0
+Frame  132		        No		         0	         0
+Frame  133		        No		         0	         0
+Frame  134		        No		         0	         0
+Frame  135		        No		         0	         0
+Frame  136		        No		         0	         0
+Frame  137		        No		         0	         0
+Frame  138		        No		         0	         0
+Frame  139		        No		         0	         0
+Frame  140		        No		         0	         0
+Frame  141		        No		         0	         0
+Frame  142		        No		         0	         0
+Frame  143		        No		         0	         0
+Frame  144		        No		         0	         0
+Frame  145		        No		         0	         0
+Frame  146		        No		         0	         0
+Frame  147		        No		         0	         0
+Frame  148		        No		         0	         0
+Frame  149		        No		         0	         0
+Frame  150		        No		         0	         0
+Frame  151		        No		         0	         0
+Frame  152		        No		         0	         0
+Frame  153		        No		         0	         0
+Frame  154		        No		         0	         0
+Frame  155		        No		         0	         0
+Frame  156		        No		         0	         0
+Frame  157		        No		         0	         0
+Frame  158		        No		         0	         0
+Frame  159		        No		         0	         0
+Frame  160		        No		         0	         0
+Frame  161		        No		         0	         0
+Frame  162		        No		         0	         0
+Frame  163		        No		         0	         0
+Frame  164		        No		         0	         0
+Frame  165		        No		         0	         0
+Frame  166		        No		         0	         0
+Frame  167		        No		         0	         0
+Frame  168		        No		         0	         0
+Frame  169		        No		         0	         0
+Frame  170		        No		         0	         0
+Frame  171		        No		         0	         0
+Frame  172		        No		         0	         0
+Frame  173		        No		         0	         0
+Frame  174		        No		         0	         0
+Frame  175		        No		         0	         0
+Frame  176		        No		         0	         0
+Frame  177		        No		         0	         0
+Frame  178		        No		         0	         0
+Frame  179		        No		         0	         0
+Frame  180		        No		         0	         0
+Frame  181		        No		         0	         0
+Frame  182		        No		         0	         0
+Frame  183		        No		         0	         0
+Frame  184		        No		         0	         0
+Frame  185		        No		         0	         0
+Frame  186		        No		         0	         0
+Frame  187		        No		         0	         0
+Frame  188		        No		         0	         0
+Frame  189		        No		         0	         0
+Frame  190		        No		         0	         0
+Frame  191		        No		         0	         0
+Frame  192		        No		         0	         0
+Frame  193		        No		         0	         0
+Frame  194		        No		         0	         0
+Frame  195		        No		         0	         0
+Frame  196		        No		         0	         0
+Frame  197		        No		         0	         0
+Frame  198		        No		         0	         0
+Frame  199		        No		         0	         0
+Frame  200		        No		         0	         0
+Frame  201		        No		         0	         0
+Frame  202		        No		         0	         0
+Frame  203		        No		         0	         0
+Frame  204		        No		         0	         0
+Frame  205		        No		         0	         0
+Frame  206		        No		         0	         0
+Frame  207		        No		         0	         0
+Frame  208		        No		         0	         0
+Frame  209		        No		         0	         0
+Frame  210		        No		         0	         0
+Frame  211		        No		         0	         0
+Frame  212		        No		         0	         0
+Frame  213		        No		         0	         0
+Frame  214		        No		         0	         0
+Frame  215		        No		         0	         0
+Frame  216		        No		         0	         0
+Frame  217		        No		         0	         0
+Frame  218		        No		         0	         0
+Frame  219		        No		         0	         0
+Frame  220		        No		         0	         0
+Frame  221		        No		         0	         0
+Frame  222		        No		         0	         0
+Frame  223		        No		         0	         0
+Frame  224		        No		         0	         0
+Frame  225		        No		         0	         0
+Frame  226		        No		         0	         0
+Frame  227		        No		         0	         0
+Frame  228		        No		         0	         0
+Frame  229		        No		         0	         0
+Frame  230		        No		         0	         0
+Frame  231		        No		         0	         0
+Frame  232		        No		         0	         0
+Frame  233		        No		         0	         0
+Frame  234		        No		         0	         0
+Frame  235		        No		         0	         0
+Frame  236		        No		         0	         0
+Frame  237		        No		         0	         0
+Frame  238		        No		         0	         0
+Frame  239		        No		         0	         0
+Frame  240		        No		         0	         0
+Frame  241		        No		         0	         0
+Frame  242		        No		         0	         0
+Frame  243		        No		         0	         0
+Frame  244		        No		         0	         0
+Frame  245		        No		         0	         0
+Frame  246		        No		         0	         0
+Frame  247		        No		         0	         0
+Frame  248		        No		         0	         0
+Frame  249		        No		         0	         0
+Frame  250		        No		         0	         0
+Frame  251		        No		         0	         0
+Frame  252		        No		         0	         0
+Frame  253		        No		         0	         0
+Frame  254		        No		         0	         0
+Frame  255		        No		         0	         0
+
+[4956:12262661] Master: P88 reading 27101
+[4956:12262671] Master: Address 27101 in frame 14, P88 reading data
+[4956:12263141] Master: P99 writing 8350
+[4956:12263151] Master: Address 8350 in frame 15, P99 writing data
+[4956:12263232] Master: P85 terminates. Clearing frames 11 0 26 
+[4957:12264680] Master: P93 reading 18260
+[4957:12264680] Master: Page fault on address 18260
+[4957:12264680] Master: Using free frame 0 for P93 page 17
+[4958:12266987] Master: P93 reading 18260
+[4958:12266997] Master: Address 18260 in frame 0, P93 reading data
+[4979:12320092] Master: P88 terminates. Clearing frames 7 6 8 14 
+[4980:12321130] Master: P86 terminates. Clearing frames 2 1 9 
+[5226:12922963] Master: P91 terminates. Clearing frames 13 3 5 4 
+[5226:12923567] Master: P96 writing 16950
+[5226:12923567] Master: Page fault on address 16950
+[5226:12923567] Master: Using free frame 1 for P96 page 16
+[5226:12923648] Master: P94 reading 9597
+[5226:12923648] Master: Page fault on address 9597
+[5226:12923648] Master: Using free frame 2 for P94 page 9
+[5226:12923760] Master: P95 reading 27370
+[5226:12923760] Master: Page fault on address 27370
+[5226:12923760] Master: Using free frame 3 for P95 page 26
+[5226:12923837] Master: P58 writing 15883
+[5226:12923837] Master: Page fault on address 15883
+[5226:12923837] Master: Using free frame 4 for P58 page 15
+[5226:12924216] Master: P89 reading 8913
+[5226:12924216] Master: Page fault on address 8913
+[5226:12924216] Master: Using free frame 5 for P89 page 8
+[5227:12925566] Master: P96 writing 16950
+[5227:12925576] Master: Address 16950 in frame 1, P96 writing data
+[5227:12925586] Master: P94 reading 9597
+[5227:12925596] Master: Address 9597 in frame 2, P94 reading data
+[5227:12925748] Master: P95 reading 27370
+[5227:12925758] Master: Address 27370 in frame 3, P95 reading data
+[5227:12925896] Master: P58 writing 15883
+[5227:12925906] Master: Address 15883 in frame 4, P58 writing data
+[5227:12926385] Master: P89 reading 8913
+[5227:12926395] Master: Address 8913 in frame 5, P89 reading data
+[5229:12929454] Master: P94 terminates. Clearing frames 12 2 
+[5229:12930496] Master: P93 writing 13607
+[5229:12930496] Master: Page fault on address 13607
+[5229:12930496] Master: Using free frame 2 for P93 page 13
+[5229:12930531] Master: P92 reading 9989
+[5229:12930531] Master: Page fault on address 9989
+[5229:12930531] Master: Using free frame 6 for P92 page 9
+[5229:12930663] Master: P95 reading 28446
+[5229:12930663] Master: Page fault on address 28446
+[5229:12930663] Master: Using free frame 7 for P95 page 27
+[5229:12930764] Master: P58 reading 11895
+[5229:12930764] Master: Page fault on address 11895
+[5229:12930764] Master: Using free frame 8 for P58 page 11
+[5229:12930861] Master: P97 reading 13801
+[5229:12930861] Master: Page fault on address 13801
+[5229:12930861] Master: Using free frame 9 for P97 page 13
+[5229:12930903] Master: P98 writing 7529
+[5229:12930903] Master: Page fault on address 7529
+[5229:12930903] Master: Using free frame 11 for P98 page 7
+[5229:12930910] Master: P84 reading 17710
+[5229:12930910] Master: Page fault on address 17710
+[5229:12930910] Master: Using free frame 12 for P84 page 17
+[5229:12931017] Master: P75 reading 5155
+[5229:12931017] Master: Page fault on address 5155
+[5229:12931017] Master: Using free frame 13 for P75 page 5
+[5229:12931168] Master: P89 writing 30964
+[5229:12931168] Master: Page fault on address 30964
+[5229:12931168] Master: Using free frame 14 for P89 page 30
+[5229:12931234] Master: P99 reading 5482
+[5229:12931234] Master: Page fault on address 5482
+[5229:12931234] Master: Using free frame 16 for P99 page 5
+[5230:12932833] Master: P93 writing 13607
+[5230:12932843] Master: Address 13607 in frame 2, P93 writing data
+[5230:12932921] Master: P92 reading 9989
+[5230:12932931] Master: Address 9989 in frame 6, P92 reading data
+[5230:12933055] Master: P95 reading 28446
+[5230:12933065] Master: Address 28446 in frame 7, P95 reading data
+[5230:12933233] Master: P58 reading 11895
+[5230:12933243] Master: Address 11895 in frame 8, P58 reading data
+[5230:12933312] Master: P97 reading 13801
+[5230:12933322] Master: Address 13801 in frame 9, P97 reading data
+[5230:12933393] Master: P98 writing 7529
+[5230:12933403] Master: Address 7529 in frame 11, P98 writing data
+[5230:12933493] Master: P84 reading 17710
+[5230:12933503] Master: Address 17710 in frame 12, P84 reading data
+[5230:12933636] Master: P75 reading 5155
+[5230:12933646] Master: Address 5155 in frame 13, P75 reading data
+[5230:12933770] Master: P89 writing 30964
+[5230:12933780] Master: Address 30964 in frame 14, P89 writing data
+[5230:12933846] Master: P99 reading 5482
+[5230:12933856] Master: Address 5482 in frame 16, P99 reading data
+[5232:12937202] Master: P92 reading 2242
+[5232:12937202] Master: Page fault on address 2242
+[5232:12937202] Master: Using free frame 17 for P92 page 2
+[5232:12937435] Master: P58 writing 26178
+[5232:12937435] Master: Page fault on address 26178
+[5232:12937435] Master: Using free frame 18 for P58 page 25
+[5233:12940121] Master: P92 reading 2242
+[5233:12940131] Master: Address 2242 in frame 17, P92 reading data
+[5233:12940344] Master: P58 writing 26178
+[5233:12940354] Master: Address 26178 in frame 18, P58 writing data
+[5233:12940614] Master: P84 writing 3628
+[5233:12940614] Master: Page fault on address 3628
+[5233:12940614] Master: Using free frame 19 for P84 page 3
+[5234:12941639] Master: P96 reading 18249
+[5234:12941639] Master: Page fault on address 18249
+[5234:12941639] Master: Using free frame 20 for P96 page 17
+[5234:12942100] Master: P84 writing 3628
+[5234:12942110] Master: Address 3628 in frame 19, P84 writing data
+[5235:12943908] Master: P96 reading 18249
+[5235:12943918] Master: Address 18249 in frame 20, P96 reading data
+[5261:13007340] Master: P95 writing 24891
+[5261:13007340] Master: Page fault on address 24891
+[5261:13007340] Master: Using free frame 21 for P95 page 24
+[5261:13007879] Master: P75 reading 16975
+[5261:13007879] Master: Page fault on address 16975
+[5261:13007879] Master: Using free frame 22 for P75 page 16
+[5261:13008081] Master: P99 terminates. Clearing frames 16 15 
+[5262:13009884] Master: P95 writing 24891
+[5262:13009894] Master: Address 24891 in frame 21, P95 writing data
+[5262:13010379] Master: P75 reading 16975
+[5262:13010389] Master: Address 16975 in frame 22, P75 reading data
+[5264:13015295] Master: P89 reading 18519
+[5264:13015295] Master: Page fault on address 18519
+[5264:13015295] Master: Using free frame 15 for P89 page 18
+[5265:13017483] Master: P89 reading 18519
+[5265:13017493] Master: Address 18519 in frame 15, P89 reading data
+[5267:13022127] Master: P92 writing 25176
+[5267:13022127] Master: Page fault on address 25176
+[5267:13022127] Master: Using free frame 16 for P92 page 24
+[5267:13022387] Master: P58 writing 26969
+[5267:13022387] Master: Page fault on address 26969
+[5267:13022387] Master: Using free frame 23 for P58 page 26
+[5267:13022605] Master: P84 reading 18804
+[5267:13022605] Master: Page fault on address 18804
+[5267:13022605] Master: Using free frame 24 for P84 page 18
+[5268:13024841] Master: P96 reading 9025
+[5268:13024841] Master: Page fault on address 9025
+[5268:13024841] Master: Using free frame 25 for P96 page 8
+[5268:13024869] Master: P92 writing 25176
+[5268:13024879] Master: Address 25176 in frame 16, P92 writing data
+[5268:13024980] Master: P58 writing 26969
+[5268:13024990] Master: Address 26969 in frame 23, P58 writing data
+[5268:13025162] Master: P84 reading 18804
+[5268:13025172] Master: Address 18804 in frame 24, P84 reading data
+[5269:13027294] Master: P96 reading 9025
+[5269:13027304] Master: Address 9025 in frame 25, P96 reading data
+[5301:13107348] Master: P95 reading 30835
+[5301:13107348] Master: Page fault on address 30835
+[5301:13107348] Master: Using free frame 26 for P95 page 30
+[5302:13110349] Master: P95 reading 30835
+[5302:13110359] Master: Address 30835 in frame 26, P95 reading data
+[5303:13113124] Master: P75 reading 22613
+[5303:13113124] Master: Page fault on address 22613
+[5303:13113124] Master: Using free frame 27 for P75 page 22
+[5304:13113827] Master: P93 terminates. Clearing frames 2 0 
+[5304:13115225] Master: P75 reading 22613
+[5304:13115235] Master: Address 22613 in frame 27, P75 reading data
+[5306:13120607] Master: P89 writing 17728
+[5306:13120607] Master: Page fault on address 17728
+[5306:13120607] Master: Using free frame 0 for P89 page 17
+[5307:13122915] Master: P89 writing 17728
+[5307:13122925] Master: Address 17728 in frame 0, P89 writing data
+[5308:13125065] Master: P92 reading 10860
+[5308:13125065] Master: Page fault on address 10860
+[5308:13125065] Master: Using free frame 2 for P92 page 10
+[5308:13125263] Master: P58 writing 466
+[5308:13125263] Master: Page fault on address 466
+[5308:13125263] Master: Using free frame 28 for P58 page 0
+[5309:13126882] Master: P96 reading 9196
+[5309:13126892] Master: Address 9196 in frame 25, P96 reading data
+[5309:13127036] Master: P92 reading 10860
+[5309:13127046] Master: Address 10860 in frame 2, P92 reading data
+[5309:13127297] Master: P58 writing 466
+[5309:13127307] Master: Address 466 in frame 28, P58 writing data
+[5309:13127603] Master: P84 reading 20047
+[5309:13127603] Master: Page fault on address 20047
+[5309:13127603] Master: Using free frame 29 for P84 page 19
+[5310:13129898] Master: P84 reading 20047
+[5310:13129908] Master: Address 20047 in frame 29, P84 reading data
+[5341:13204773] Master: P98 terminates. Clearing frames 11 10 
+[5355:13240109] Master: P89 writing 10942
+[5355:13240109] Master: Page fault on address 10942
+[5355:13240109] Master: Using free frame 10 for P89 page 10
+[5356:13242649] Master: P89 writing 10942
+[5356:13242659] Master: Address 10942 in frame 10, P89 writing data
+[5357:13244535] Master: P92 reading 9970
+[5357:13244545] Master: Address 9970 in frame 6, P92 reading data
+[5357:13244823] Master: P58 writing 6235
+[5357:13244823] Master: Page fault on address 6235
+[5357:13244823] Master: Using free frame 11 for P58 page 6
+[5357:13245041] Master: P84 reading 21348
+[5357:13245041] Master: Page fault on address 21348
+[5357:13245041] Master: Using free frame 30 for P84 page 20
+[5358:13247312] Master: P96 reading 9832
+[5358:13247312] Master: Page fault on address 9832
+[5358:13247312] Master: Using free frame 31 for P96 page 9
+[5358:13247708] Master: P58 writing 6235
+[5358:13247718] Master: Address 6235 in frame 11, P58 writing data
+[5358:13248089] Master: P84 reading 21348
+[5358:13248099] Master: Address 21348 in frame 30, P84 reading data
+[5359:13249562] Master: P96 reading 9832
+[5359:13249572] Master: Address 9832 in frame 31, P96 reading data
+[5370:13275377] Master: P95 reading 19789
+[5370:13275377] Master: Page fault on address 19789
+[5370:13275377] Master: Using free frame 32 for P95 page 19
+[5371:13277551] Master: P95 reading 19789
+[5371:13277561] Master: Address 19789 in frame 32, P95 reading data
+[5371:13278120] Master: P75 reading 1731
+[5371:13278120] Master: Page fault on address 1731
+[5371:13278120] Master: Using free frame 33 for P75 page 1
+[5372:13279987] Master: P75 reading 1731
+[5372:13279997] Master: Address 1731 in frame 33, P75 reading data
+[5399:13345926] Master: P89 terminates. Clearing frames 5 10 0 15 14 
+[5401:13349906] Master: P58 terminates. Clearing frames 28 11 8 4 18 23 
+[5421:13398759] Master: P95 terminates. Clearing frames 32 21 3 7 26 
+[5447:13463202] Master: P92 terminates. Clearing frames 17 6 2 16 
+[5452:13476533] Master: P84 terminates. Clearing frames 19 12 24 29 30 
+[5467:13512453] Master: P75 terminates. Clearing frames 33 13 22 27 
+[5497:13584653] Master: P96 terminates. Clearing frames 25 31 1 20 
+[5883:14541471] Master: P97 writing 9542
+[5883:14541471] Master: Page fault on address 9542
+[5883:14541471] Master: Using free frame 0 for P97 page 9
+[5884:14544132] Master: P97 writing 9542
+[5884:14544142] Master: Address 9542 in frame 0, P97 writing data
+[5938:14678800] Master: P97 terminates. Clearing frames 0 9 
+[5938:14679165] Master: Current Frames Usage:
+         #		  Occupied		   RefByte	  DirtyBit
+Frame    0		        No		         0	         0
+Frame    1		        No		         0	         0
+Frame    2		        No		         0	         0
+Frame    3		        No		         0	         0
+Frame    4		        No		         0	         0
+Frame    5		        No		         0	         0
+Frame    6		        No		         0	         0
+Frame    7		        No		         0	         0
+Frame    8		        No		         0	         0
+Frame    9		        No		         0	         0
+Frame   10		        No		         0	         0
+Frame   11		        No		         0	         0
+Frame   12		        No		         0	         0
+Frame   13		        No		         0	         0
+Frame   14		        No		         0	         0
+Frame   15		        No		         0	         0
+Frame   16		        No		         0	         0
+Frame   17		        No		         0	         0
+Frame   18		        No		         0	         0
+Frame   19		        No		         0	         0
+Frame   20		        No		         0	         0
+Frame   21		        No		         0	         0
+Frame   22		        No		         0	         0
+Frame   23		        No		         0	         0
+Frame   24		        No		         0	         0
+Frame   25		        No		         0	         0
+Frame   26		        No		         0	         0
+Frame   27		        No		         0	         0
+Frame   28		        No		         0	         0
+Frame   29		        No		         0	         0
+Frame   30		        No		         0	         0
+Frame   31		        No		         0	         0
+Frame   32		        No		         0	         0
+Frame   33		        No		         0	         0
+Frame   34		        No		         0	         0
+Frame   35		        No		         0	         0
+Frame   36		        No		         0	         0
+Frame   37		        No		         0	         0
+Frame   38		        No		         0	         0
+Frame   39		        No		         0	         0
+Frame   40		        No		         0	         0
+Frame   41		        No		         0	         0
+Frame   42		        No		         0	         0
+Frame   43		        No		         0	         0
+Frame   44		        No		         0	         0
+Frame   45		        No		         0	         0
+Frame   46		        No		         0	         0
+Frame   47		        No		         0	         0
+Frame   48		        No		         0	         0
+Frame   49		        No		         0	         0
+Frame   50		        No		         0	         0
+Frame   51		        No		         0	         0
+Frame   52		        No		         0	         0
+Frame   53		        No		         0	         0
+Frame   54		        No		         0	         0
+Frame   55		        No		         0	         0
+Frame   56		        No		         0	         0
+Frame   57		        No		         0	         0
+Frame   58		        No		         0	         0
+Frame   59		        No		         0	         0
+Frame   60		        No		         0	         0
+Frame   61		        No		         0	         0
+Frame   62		        No		         0	         0
+Frame   63		        No		         0	         0
+Frame   64		        No		         0	         0
+Frame   65		        No		         0	         0
+Frame   66		        No		         0	         0
+Frame   67		        No		         0	         0
+Frame   68		        No		         0	         0
+Frame   69		        No		         0	         0
+Frame   70		        No		         0	         0
+Frame   71		        No		         0	         0
+Frame   72		        No		         0	         0
+Frame   73		        No		         0	         0
+Frame   74		        No		         0	         0
+Frame   75		        No		         0	         0
+Frame   76		        No		         0	         0
+Frame   77		        No		         0	         0
+Frame   78		        No		         0	         0
+Frame   79		        No		         0	         0
+Frame   80		        No		         0	         0
+Frame   81		        No		         0	         0
+Frame   82		        No		         0	         0
+Frame   83		        No		         0	         0
+Frame   84		        No		         0	         0
+Frame   85		        No		         0	         0
+Frame   86		        No		         0	         0
+Frame   87		        No		         0	         0
+Frame   88		        No		         0	         0
+Frame   89		        No		         0	         0
+Frame   90		        No		         0	         0
+Frame   91		        No		         0	         0
+Frame   92		        No		         0	         0
+Frame   93		        No		         0	         0
+Frame   94		        No		         0	         0
+Frame   95		        No		         0	         0
+Frame   96		        No		         0	         0
+Frame   97		        No		         0	         0
+Frame   98		        No		         0	         0
+Frame   99		        No		         0	         0
+Frame  100		        No		         0	         0
+Frame  101		        No		         0	         0
+Frame  102		        No		         0	         0
+Frame  103		        No		         0	         0
+Frame  104		        No		         0	         0
+Frame  105		        No		         0	         0
+Frame  106		        No		         0	         0
+Frame  107		        No		         0	         0
+Frame  108		        No		         0	         0
+Frame  109		        No		         0	         0
+Frame  110		        No		         0	         0
+Frame  111		        No		         0	         0
+Frame  112		        No		         0	         0
+Frame  113		        No		         0	         0
+Frame  114		        No		         0	         0
+Frame  115		        No		         0	         0
+Frame  116		        No		         0	         0
+Frame  117		        No		         0	         0
+Frame  118		        No		         0	         0
+Frame  119		        No		         0	         0
+Frame  120		        No		         0	         0
+Frame  121		        No		         0	         0
+Frame  122		        No		         0	         0
+Frame  123		        No		         0	         0
+Frame  124		        No		         0	         0
+Frame  125		        No		         0	         0
+Frame  126		        No		         0	         0
+Frame  127		        No		         0	         0
+Frame  128		        No		         0	         0
+Frame  129		        No		         0	         0
+Frame  130		        No		         0	         0
+Frame  131		        No		         0	         0
+Frame  132		        No		         0	         0
+Frame  133		        No		         0	         0
+Frame  134		        No		         0	         0
+Frame  135		        No		         0	         0
+Frame  136		        No		         0	         0
+Frame  137		        No		         0	         0
+Frame  138		        No		         0	         0
+Frame  139		        No		         0	         0
+Frame  140		        No		         0	         0
+Frame  141		        No		         0	         0
+Frame  142		        No		         0	         0
+Frame  143		        No		         0	         0
+Frame  144		        No		         0	         0
+Frame  145		        No		         0	         0
+Frame  146		        No		         0	         0
+Frame  147		        No		         0	         0
+Frame  148		        No		         0	         0
+Frame  149		        No		         0	         0
+Frame  150		        No		         0	         0
+Frame  151		        No		         0	         0
+Frame  152		        No		         0	         0
+Frame  153		        No		         0	         0
+Frame  154		        No		         0	         0
+Frame  155		        No		         0	         0
+Frame  156		        No		         0	         0
+Frame  157		        No		         0	         0
+Frame  158		        No		         0	         0
+Frame  159		        No		         0	         0
+Frame  160		        No		         0	         0
+Frame  161		        No		         0	         0
+Frame  162		        No		         0	         0
+Frame  163		        No		         0	         0
+Frame  164		        No		         0	         0
+Frame  165		        No		         0	         0
+Frame  166		        No		         0	         0
+Frame  167		        No		         0	         0
+Frame  168		        No		         0	         0
+Frame  169		        No		         0	         0
+Frame  170		        No		         0	         0
+Frame  171		        No		         0	         0
+Frame  172		        No		         0	         0
+Frame  173		        No		         0	         0
+Frame  174		        No		         0	         0
+Frame  175		        No		         0	         0
+Frame  176		        No		         0	         0
+Frame  177		        No		         0	         0
+Frame  178		        No		         0	         0
+Frame  179		        No		         0	         0
+Frame  180		        No		         0	         0
+Frame  181		        No		         0	         0
+Frame  182		        No		         0	         0
+Frame  183		        No		         0	         0
+Frame  184		        No		         0	         0
+Frame  185		        No		         0	         0
+Frame  186		        No		         0	         0
+Frame  187		        No		         0	         0
+Frame  188		        No		         0	         0
+Frame  189		        No		         0	         0
+Frame  190		        No		         0	         0
+Frame  191		        No		         0	         0
+Frame  192		        No		         0	         0
+Frame  193		        No		         0	         0
+Frame  194		        No		         0	         0
+Frame  195		        No		         0	         0
+Frame  196		        No		         0	         0
+Frame  197		        No		         0	         0
+Frame  198		        No		         0	         0
+Frame  199		        No		         0	         0
+Frame  200		        No		         0	         0
+Frame  201		        No		         0	         0
+Frame  202		        No		         0	         0
+Frame  203		        No		         0	         0
+Frame  204		        No		         0	         0
+Frame  205		        No		         0	         0
+Frame  206		        No		         0	         0
+Frame  207		        No		         0	         0
+Frame  208		        No		         0	         0
+Frame  209		        No		         0	         0
+Frame  210		        No		         0	         0
+Frame  211		        No		         0	         0
+Frame  212		        No		         0	         0
+Frame  213		        No		         0	         0
+Frame  214		        No		         0	         0
+Frame  215		        No		         0	         0
+Frame  216		        No		         0	         0
+Frame  217		        No		         0	         0
+Frame  218		        No		         0	         0
+Frame  219		        No		         0	         0
+Frame  220		        No		         0	         0
+Frame  221		        No		         0	         0
+Frame  222		        No		         0	         0
+Frame  223		        No		         0	         0
+Frame  224		        No		         0	         0
+Frame  225		        No		         0	         0
+Frame  226		        No		         0	         0
+Frame  227		        No		         0	         0
+Frame  228		        No		         0	         0
+Frame  229		        No		         0	         0
+Frame  230		        No		         0	         0
+Frame  231		        No		         0	         0
+Frame  232		        No		         0	         0
+Frame  233		        No		         0	         0
+Frame  234		        No		         0	         0
+Frame  235		        No		         0	         0
+Frame  236		        No		         0	         0
+Frame  237		        No		         0	         0
+Frame  238		        No		         0	         0
+Frame  239		        No		         0	         0
+Frame  240		        No		         0	         0
+Frame  241		        No		         0	         0
+Frame  242		        No		         0	         0
+Frame  243		        No		         0	         0
+Frame  244		        No		         0	         0
+Frame  245		        No		         0	         0
+Frame  246		        No		         0	         0
+Frame  247		        No		         0	         0
+Frame  248		        No		         0	         0
+Frame  249		        No		         0	         0
+Frame  250		        No		         0	         0
+Frame  251		        No		         0	         0
+Frame  252		        No		         0	         0
+Frame  253		        No		         0	         0
+Frame  254		        No		         0	         0
+Frame  255		        No		         0	         0
+
+Runtime: 5938:14679165
+Started: 100
+Exited: 100
+Requests: 584
+Addresses read: 412
+Addresses written: 172
+Refs per second: 0.10
+Faults per reference: 0.49
