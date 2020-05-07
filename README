@@ -9,6 +9,8 @@ gcc -Wall -g user.c proc.o clock.o shm.o -o user -lrt -pthread
 
 After compilation we can find oss file which will be green color. 
 2. Execute To execute the program use command ./oss we will get output in output.txt 
-
+By comparing page replacement  algorithm  on  both  of  the  different  pagerequest schemes, 
+first one is more therotical and ideal but second method which is requesting with basis of a weightage is preferbale in my opinion, 
+because it is more applicable in real time scenarios inside an operating system
 
 Version Control: I pushed all these files in to github. /classes/OS/gorantla/gorantla.6/log
